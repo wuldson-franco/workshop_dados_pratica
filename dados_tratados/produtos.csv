@@ -1,0 +1,17 @@
+id_produto,nome_produto,categoria,custo_unitario,preco_atual
+P01,Café expresso,Bebida quente,1.2,6.0
+P02,Cappuccino,Bebida quente,2.8,12.9
+P03,Café com leite,Bebida quente,1.6,7.5
+P04,Latte,Bebida quente,2.4,11.0
+P05,Chá de capim-santo,Bebida quente,0.9,6.5
+P06,Café gelado,Bebida fria,3.1,13.0
+P07,Suco de laranja,Bebida fria,2.6,9.0
+P08,Tapioca de queijo coalho,Salgado,3.5,12.0
+P09,Tapioca de carne de sol,Salgado,5.8,16.0
+P10,Pão de queijo,Salgado,1.4,5.5
+P11,Cuscuz com ovo,Salgado,3.2,13.0
+P12,Misto quente,Salgado,3.0,11.0
+P13,Sanduíche natural,Salgado,4.6,14.0
+P14,Croissant,Doce,3.3,10.0
+P15,Bolo de macaxeira,Doce,2.1,8.0
+P16,Brigadeiro,Doce,0.9,4.0

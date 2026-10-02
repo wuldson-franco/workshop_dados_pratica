@@ -1,0 +1,1699 @@
+id_avaliacao,data_avaliacao,id_venda,id_cliente,canal,nota,comentario
+A00690,2026-01-02 02:58,V000010,C0109,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01073,2026-01-02 10:29,V000047,C0415,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01396,2026-01-02 13:17,V000091,C0892,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01631,2026-01-03 03:27,V000140,,Balcão,,"Café maravilhoso, atendimento nota 10!"
+A00736,2026-01-03 12:01,V000150,C0934,iFood,,Cappuccino cremoso e bem feito.
+A00124,2026-01-03 18:03,V000253,,Balcão,4,Atendimento rápido e café excelente.
+A00147,2026-01-03 19:03,V000262,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01311,2026-01-03 21:34,V000251,C0692,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00632,2026-01-03 22:37,V000277,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00636,2026-01-04 00:24,V000198,C0126,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01644,2026-01-04 04:22,V000162,C1123,Balcão,4,"Equipe muito simpática, sempre volto."
+A00357,2026-01-04 07:57,V000229,C0193,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01579,2026-01-04 08:44,V000224,C0105,Balcão,4,"Equipe muito simpática, sempre volto."
+A00773,2026-01-04 13:49,V000222,C0125,iFood,5,Atendimento rápido e café excelente.
+A00831,2026-01-04 17:05,V000232,C0707,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01259,2026-01-04 17:27,V000297,,Balcão,4,Preço justo e comida gostosa.
+A00491,2026-01-04 21:10,V000211,C0685,iFood,,"Ambiente aconchegante, ótimo pra trabalhar."
+A00366,2026-01-04 22:08,V000316,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01383,2026-01-05 03:36,V000319,C0959,iFood,5,Melhor cuscuz da orla!
+A00747,2026-01-05 13:28,V000432,C0529,Balcão,5,"Equipe muito simpática, sempre volto."
+A01574,2026-01-05 13:35,V000441,C0355,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00769,2026-01-05 18:12,V000414,,Balcão,3,"Ok, nada de especial."
+A01302,2026-01-05 19:27,V000380,,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A00105,2026-01-05 19:54,V000459,C1126,iFood,3,"Bom café, mas o ambiente estava cheio."
+A01626,2026-01-05 22:20,V000396,C0245,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00865,2026-01-05 23:07,V000452,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01275,2026-01-05 23:57,V000390,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00223,2026-01-06 01:13,V000457,C0735,Balcão,5,Cappuccino cremoso e bem feito.
+A00602,2026-01-06 02:47,V000445,C0569,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00347,2026-01-06 12:45,V000497,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01251,2026-01-06 16:27,V000508,,Balcão,4,Cappuccino cremoso e bem feito.
+A00574,2026-01-06 22:31,V000524,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00284,2026-01-07 03:22,V000484,C0999,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00368,2026-01-07 03:25,V000511,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01069,2026-01-07 14:54,V000625,C0384,iFood,4,Melhor cuscuz da orla!
+A00934,2026-01-08 01:08,V000594,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00072,2026-01-08 01:22,V000574,C0077,Balcão,5,"Equipe muito simpática, sempre volto."
+A01469,2026-01-08 09:54,V000624,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00142,2026-01-08 10:56,V000591,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00490,2026-01-08 13:58,V000664,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00568,2026-01-08 20:55,V000602,C0144,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00656,2026-01-09 02:52,V000650,C0096,Balcão,4,Melhor cuscuz da orla!
+A01551,2026-01-09 08:09,V000647,,Balcão,4,"Equipe muito simpática, sempre volto."
+A01638,2026-01-09 12:05,V000696,C0484,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01563,2026-01-09 20:21,V000717,C0001,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A00418,2026-01-09 21:06,V000681,,Balcão,4,Cappuccino cremoso e bem feito.
+A00113,2026-01-10 17:33,V000879,C1193,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00479,2026-01-10 20:56,V000930,C0442,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00598,2026-01-11 01:37,V000869,C0939,Balcão,5,Melhor cuscuz da orla!
+A01529,2026-01-11 02:19,V000806,C0273,Balcão,5,Atendimento rápido e café excelente.
+A00545,2026-01-11 02:27,V000856,C0472,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01197,2026-01-11 06:15,V000904,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01544,2026-01-11 06:49,V000907,C1023,Balcão,3,"Ok, nada de especial."
+A01086,2026-01-11 09:21,V000924,C0104,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00003,2026-01-11 10:46,V000827,C0821,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00379,2026-01-11 13:26,V000886,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01436,2026-01-11 15:30,V000992,C0659,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01133,2026-01-11 20:29,V000985,C0941,iFood,5,Cappuccino cremoso e bem feito.
+A00085,2026-01-11 22:20,V000909,C0366,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01210,2026-01-11 22:39,V000946,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01657,2026-01-12 07:14,V000948,C0912,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00119,2026-01-12 12:58,V001048,C0042,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00806,2026-01-12 21:24,V001072,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00176,2026-01-13 03:13,V001064,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00128,2026-01-13 18:04,V001145,C0104,iFood,3,"Bom café, mas o ambiente estava cheio."
+A01356,2026-01-13 19:55,V001159,,Balcão,4,Preço justo e comida gostosa.
+A01607,2026-01-14 02:58,V001112,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01150,2026-01-14 08:30,V001160,,Balcão,5,Atendimento rápido e café excelente.
+A00137,2026-01-14 16:01,V001170,C0131,Balcão,5,Melhor cuscuz da orla!
+A01332,2026-01-14 17:21,V001232,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00405,2026-01-14 20:28,V001235,C0289,Balcão,,"Ok, nada de especial."
+A01176,2026-01-15 06:53,V001208,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00432,2026-01-15 09:19,V001166,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00022,2026-01-15 11:59,V001196,,Balcão,5,Cappuccino cremoso e bem feito.
+A00226,2026-01-15 15:05,V001310,C0593,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01116,2026-01-15 16:10,V001329,C1049,iFood,4,"Gostei muito do café gelado, refrescante."
+A01492,2026-01-15 20:49,V001290,C0748,Balcão,5,Cappuccino cremoso e bem feito.
+A01556,2026-01-16 01:45,V001266,C0534,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01242,2026-01-16 04:46,V001253,,Balcão,4,Atendimento rápido e café excelente.
+A00613,2026-01-16 08:40,V001333,C0671,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01036,2026-01-16 14:02,V001289,C1139,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00659,2026-01-16 14:45,V001374,C0262,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00312,2026-01-16 17:36,V001364,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00081,2026-01-16 18:24,V001292,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01334,2026-01-16 18:29,V001291,,Balcão,5,Cappuccino cremoso e bem feito.
+A00845,2026-01-16 22:38,V001370,C0252,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00696,2026-01-17 08:26,V001384,C0465,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01543,2026-01-17 10:55,V001380,C1102,Balcão,3,"Ok, nada de especial."
+A01063,2026-01-17 16:58,V001362,,iFood,5,Preço justo e comida gostosa.
+A01693,2026-01-17 17:27,V001412,C0577,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00246,2026-01-17 18:57,V001476,,iFood,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00914,2026-01-18 02:13,V001469,C0975,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00437,2026-01-18 05:50,V001545,C0854,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00610,2026-01-18 06:57,V001449,,Balcão,5,Preço justo e comida gostosa.
+A00702,2026-01-18 09:32,V001518,C0139,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01344,2026-01-18 13:21,V001465,C0112,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00935,2026-01-18 19:01,V001629,C0786,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00777,2026-01-18 19:28,V001613,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00114,2026-01-19 00:28,V001638,C0092,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01519,2026-01-19 04:16,V001619,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01080,2026-01-19 09:09,V001590,C0795,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00576,2026-01-19 11:39,V001611,,Balcão,4,Cappuccino cremoso e bem feito.
+A01241,2026-01-19 11:40,V001584,,iFood,5,Atendimento rápido e café excelente.
+A01020,2026-01-19 23:14,V001682,C0916,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00487,2026-01-20 07:01,V001720,,Balcão,5,Melhor cuscuz da orla!
+A01592,2026-01-20 08:43,V001683,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01230,2026-01-20 19:50,V001802,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00234,2026-01-20 23:01,V001738,C0696,Balcão,4,Melhor cuscuz da orla!
+A01558,2026-01-21 02:41,V001792,C0999,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00050,2026-01-21 07:05,V001733,,iFood,5,"Equipe muito simpática, sempre volto."
+A00753,2026-01-21 17:56,V001794,C0696,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A01691,2026-01-21 19:33,V001826,C1074,iFood,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00792,2026-01-21 20:55,V001858,C0517,Balcão,,"Pão de queijo quentinho e café forte, perfeito."
+A01075,2026-01-21 23:34,V001830,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00828,2026-01-22 11:04,V001864,C0639,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01034,2026-01-22 12:42,V001845,C0929,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00450,2026-01-22 14:15,V001815,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00742,2026-01-22 21:28,V001937,C1167,iFood,5,"Equipe muito simpática, sempre volto."
+A00616,2026-01-23 10:56,V001946,,iFood,4,"Lugar lindo, perto da praia, recomendo."
+A01314,2026-01-23 16:16,V001921,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01187,2026-01-24 01:00,V001993,C1062,iFood,5,"Equipe muito simpática, sempre volto."
+A00911,2026-01-24 01:13,V001975,C0706,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01357,2026-01-24 01:18,V001967,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00839,2026-01-24 05:06,V002036,C0524,Balcão,4,Atendimento rápido e café excelente.
+A01204,2026-01-24 10:43,V002018,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01303,2026-01-24 13:37,V002141,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00068,2026-01-24 14:04,V002034,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00627,2026-01-24 17:31,V002097,,Balcão,5,Melhor cuscuz da orla!
+A00639,2026-01-24 19:36,V002070,C0659,Balcão,4,Cappuccino cremoso e bem feito.
+A00125,2026-01-24 21:52,V002081,C0984,Balcão,5,Atendimento rápido e café excelente.
+A01169,2026-01-25 02:01,V002100,C1155,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00112,2026-01-25 11:27,V002143,C1011,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00946,2026-01-25 11:50,V002162,C0846,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01146,2026-01-25 15:03,V002048,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01554,2026-01-25 19:11,V002187,C0448,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00229,2026-01-25 19:13,V002257,C0811,Balcão,4,Cappuccino cremoso e bem feito.
+A00080,2026-01-25 20:52,V002085,,iFood,3,"Gostei, mas achei o croissant meio seco."
+A01317,2026-01-26 03:54,V002175,,iFood,5,Cappuccino cremoso e bem feito.
+A01182,2026-01-26 16:47,V002238,C1030,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01083,2026-01-26 19:02,V002196,C0095,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00272,2026-01-26 20:40,V002310,,Balcão,4,Cappuccino cremoso e bem feito.
+A00181,2026-01-27 01:10,V002286,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01581,2026-01-27 05:15,V002287,,iFood,5,Cappuccino cremoso e bem feito.
+A01669,2026-01-27 11:56,V002294,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00160,2026-01-27 13:45,V002334,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01637,2026-01-27 15:32,V002342,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00694,2026-01-27 19:44,V002408,C0853,iFood,5,Preço justo e comida gostosa.
+A00704,2026-01-28 07:43,V002403,,Balcão,5,Melhor cuscuz da orla!
+A01286,2026-01-28 12:40,V002416,C0582,Balcão,5,Melhor cuscuz da orla!
+A00343,2026-01-28 15:39,V002407,,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00134,2026-01-28 15:40,V002359,,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00851,2026-01-28 15:59,V002405,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00207,2026-01-29 06:22,V002460,,Balcão,5,Atendimento rápido e café excelente.
+A00498,2026-01-29 07:42,V002467,C0402,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A01347,2026-01-29 08:24,V002432,,Balcão,5,Atendimento rápido e café excelente.
+A00121,2026-01-29 10:13,V002574,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01262,2026-01-29 12:20,V002480,C0699,Balcão,4,"Equipe muito simpática, sempre volto."
+A00583,2026-01-29 18:39,V002518,C0685,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01487,2026-01-30 11:07,V002539,,iFood,4,Atendimento rápido e café excelente.
+A00991,2026-01-30 16:28,V002520,C0751,Balcão,5,Preço justo e comida gostosa.
+A01679,2026-01-30 19:03,V002564,C1129,Balcão,5,"Equipe muito simpática, sempre volto."
+A01488,2026-01-30 22:28,V002637,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01268,2026-01-31 06:31,V002638,C1062,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00411,2026-01-31 08:18,V002600,C0520,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01207,2026-01-31 09:29,V002594,,iFood,5,"Gostei muito do café gelado, refrescante."
+A01531,2026-01-31 10:47,V002661,C0126,iFood,5,"Gostei muito do café gelado, refrescante."
+A01285,2026-01-31 17:33,V002714,C0910,Balcão,5,Preço justo e comida gostosa.
+A00049,2026-01-31 21:03,V002805,C1173,Balcão,5,Preço justo e comida gostosa.
+A01668,2026-01-31 21:46,V002735,,Balcão,4,Cappuccino cremoso e bem feito.
+A00570,2026-01-31 23:03,V002589,C0577,iFood,5,"Equipe muito simpática, sempre volto."
+A00687,2026-02-01 01:08,V002812,C0599,Balcão,5,Melhor cuscuz da orla!
+A00174,2026-02-01 02:57,V002795,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00811,2026-02-01 09:05,V002760,C0999,Balcão,4,Atendimento rápido e café excelente.
+A01493,2026-02-01 09:49,V002746,,iFood,5,Preço justo e comida gostosa.
+A01014,2026-02-01 12:28,V002751,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00677,2026-02-01 13:10,V002732,C0306,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01301,2026-02-01 16:13,V002807,,Balcão,5,Preço justo e comida gostosa.
+A00296,2026-02-01 17:53,V002823,C1125,Balcão,5,Melhor cuscuz da orla!
+A00912,2026-02-02 01:49,V002821,,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A00539,2026-02-02 03:08,V002873,C0371,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00997,2026-02-02 03:38,V002882,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00805,2026-02-02 09:46,V002876,C0884,Balcão,,"Gostei, mas achei o croissant meio seco."
+A00043,2026-02-02 12:07,V002910,,Balcão,5,Atendimento rápido e café excelente.
+A00227,2026-02-02 19:19,V002955,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00140,2026-02-02 20:50,V002975,,Balcão,4,Preço justo e comida gostosa.
+A00175,2026-02-03 09:58,V002927,C1173,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A01022,2026-02-03 13:56,V002967,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00091,2026-02-03 21:04,V002994,C0068,Balcão,5,"Equipe muito simpática, sempre volto."
+A01367,2026-02-03 23:22,V003030,C0122,Balcão,4,Preço justo e comida gostosa.
+A01567,2026-02-04 01:09,V002978,C0878,iFood,5,Melhor cuscuz da orla!
+A01212,2026-02-04 08:19,V003001,C0085,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00660,2026-02-04 09:50,V003100,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00886,2026-02-04 15:35,V003061,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01352,2026-02-04 22:54,V003060,C0783,iFood,,A tapioca de carne de sol é a melhor de João Pessoa.
+A00424,2026-02-05 09:55,V003180,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01161,2026-02-05 22:18,V003078,,iFood,4,Bolo de macaxeira igual ao da minha avó.
+A00652,2026-02-06 00:57,V003149,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00521,2026-02-06 13:49,V003115,C0277,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01167,2026-02-06 16:04,V003263,,Balcão,5,Preço justo e comida gostosa.
+A00693,2026-02-06 16:25,V003223,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00138,2026-02-06 19:30,V003222,C0179,Balcão,4,Melhor cuscuz da orla!
+A00474,2026-02-06 20:39,V003198,,Balcão,5,Cappuccino cremoso e bem feito.
+A00815,2026-02-07 04:33,V003255,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00737,2026-02-07 06:11,V003197,C0555,Balcão,4,Preço justo e comida gostosa.
+A00030,2026-02-07 13:22,V003326,C0978,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00950,2026-02-07 17:16,V003219,C0699,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01506,2026-02-07 17:54,V003237,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00808,2026-02-07 19:01,V003314,C0013,iFood,5,"Equipe muito simpática, sempre volto."
+A01407,2026-02-07 20:56,V003320,,iFood,3,"Ok, nada de especial."
+A01388,2026-02-08 00:37,V003395,,Balcão,5,Preço justo e comida gostosa.
+A01354,2026-02-08 02:01,V003325,C0389,Balcão,5,Cappuccino cremoso e bem feito.
+A01578,2026-02-08 02:56,V003351,C1050,iFood,4,Preço justo e comida gostosa.
+A00088,2026-02-08 13:51,V003298,C0139,Balcão,5,Preço justo e comida gostosa.
+A01023,2026-02-08 14:57,V003406,,iFood,4,Bolo de macaxeira igual ao da minha avó.
+A00378,2026-02-08 20:28,V003465,,Balcão,4,Atendimento rápido e café excelente.
+A01299,2026-02-08 20:30,V003340,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01576,2026-02-08 23:44,V003449,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00589,2026-02-09 03:45,V003480,C0308,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01237,2026-02-09 08:06,V003486,C0631,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00269,2026-02-09 09:11,V003451,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01027,2026-02-09 09:59,V003504,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01459,2026-02-09 12:12,V003507,C0466,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00476,2026-02-09 12:14,V003478,C0002,iFood,4,Bolo de macaxeira igual ao da minha avó.
+A00771,2026-02-09 13:19,V003516,C0183,Balcão,5,"Equipe muito simpática, sempre volto."
+A01395,2026-02-09 14:26,V003539,C0590,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01095,2026-02-09 23:24,V003545,C0031,Balcão,5,Preço justo e comida gostosa.
+A00593,2026-02-10 02:04,V003534,C0085,iFood,5,Cappuccino cremoso e bem feito.
+A01365,2026-02-10 06:11,V003560,C0831,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00752,2026-02-10 09:43,V003554,C1062,iFood,4,"Café maravilhoso, atendimento nota 10!"
+A00449,2026-02-10 11:33,V003563,C0413,Balcão,4,Preço justo e comida gostosa.
+A00400,2026-02-10 18:06,V003633,C1151,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00580,2026-02-11 00:09,V003611,C0427,Balcão,5,Atendimento rápido e café excelente.
+A00744,2026-02-11 02:11,V003636,C0143,Balcão,5,Melhor cuscuz da orla!
+A00812,2026-02-11 10:53,V003595,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01094,2026-02-11 14:52,V003706,C0850,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01403,2026-02-11 23:03,V003641,C1123,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00527,2026-02-12 01:23,V003665,,Balcão,4,Preço justo e comida gostosa.
+A01683,2026-02-12 03:57,V003658,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01195,2026-02-12 05:49,V003644,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00909,2026-02-12 11:37,V003702,C0206,iFood,3,"Gostei, mas achei o croissant meio seco."
+A00548,2026-02-13 11:42,V003724,,Balcão,5,Atendimento rápido e café excelente.
+A00558,2026-02-13 20:41,V003797,C0805,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00092,2026-02-13 23:11,V003805,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01471,2026-02-14 05:59,V003810,C0021,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01194,2026-02-14 07:31,V003795,C0237,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00273,2026-02-14 12:35,V003856,C1190,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00277,2026-02-14 13:20,V003819,C0848,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01211,2026-02-14 13:48,V003977,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00642,2026-02-14 17:12,V003867,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01192,2026-02-14 20:26,V003902,C0002,iFood,3,"Bom café, mas o ambiente estava cheio."
+A00905,2026-02-14 21:57,V003949,C0613,iFood,,"Gostei muito do café gelado, refrescante."
+A01433,2026-02-14 22:11,V003781,,iFood,5,Preço justo e comida gostosa.
+A00729,2026-02-15 00:27,V003864,C0480,Balcão,5,Atendimento rápido e café excelente.
+A00241,2026-02-15 07:18,V003870,,iFood,5,"Equipe muito simpática, sempre volto."
+A01522,2026-02-15 07:37,V003961,C0276,Balcão,5,Melhor cuscuz da orla!
+A01136,2026-02-15 10:03,V003904,,Balcão,4,Atendimento rápido e café excelente.
+A01066,2026-02-15 14:20,V003894,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01419,2026-02-15 18:28,V004037,C1039,Balcão,4,Melhor cuscuz da orla!
+A00416,2026-02-15 19:18,V003871,,Balcão,5,Atendimento rápido e café excelente.
+A00004,2026-02-15 23:19,V004040,C0204,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00705,2026-02-16 07:21,V004032,,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01088,2026-02-16 07:53,V003997,C0422,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01652,2026-02-16 13:35,V004056,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00429,2026-02-16 14:45,V004118,C1045,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00069,2026-02-16 15:53,V004022,,iFood,4,Atendimento rápido e café excelente.
+A00286,2026-02-16 17:32,V004080,,Balcão,5,Preço justo e comida gostosa.
+A01673,2026-02-16 20:32,V004008,,iFood,3,"Comida boa, atendimento poderia ser mais rápido."
+A01319,2026-02-17 00:56,V004092,C0581,iFood,5,Cappuccino cremoso e bem feito.
+A01047,2026-02-17 06:19,V004095,C1151,iFood,5,"Equipe muito simpática, sempre volto."
+A00149,2026-02-17 10:07,V004151,C1193,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00977,2026-02-17 21:58,V004143,C1178,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00235,2026-02-18 11:58,V004189,C0926,iFood,5,Melhor cuscuz da orla!
+A01549,2026-02-18 23:55,V004237,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00238,2026-02-19 09:45,V004224,C0709,Balcão,5,"Equipe muito simpática, sempre volto."
+A01516,2026-02-19 22:34,V004271,C0763,iFood,4,Melhor cuscuz da orla!
+A00225,2026-02-20 00:20,V004262,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01343,2026-02-20 05:25,V004245,,Balcão,5,Cappuccino cremoso e bem feito.
+A00998,2026-02-20 10:50,V004244,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00657,2026-02-20 21:20,V004373,C0377,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00994,2026-02-20 22:45,V004302,,Balcão,3,"Ok, nada de especial."
+A01382,2026-02-21 03:25,V004370,C0404,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01138,2026-02-21 06:12,V004382,C0110,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01630,2026-02-21 11:12,V004447,,Balcão,4,Atendimento rápido e café excelente.
+A01670,2026-02-21 12:13,V004425,C0619,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01174,2026-02-21 13:19,V004460,C1028,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00352,2026-02-21 20:16,V004432,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00327,2026-02-21 20:36,V004457,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01135,2026-02-22 00:19,V004501,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00189,2026-02-22 02:25,V004507,C0885,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00786,2026-02-22 02:45,V004450,C0904,Balcão,4,Melhor cuscuz da orla!
+A01533,2026-02-22 16:23,V004510,C0894,Balcão,3,"Ok, nada de especial."
+A00094,2026-02-23 03:48,V004553,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01391,2026-02-23 13:12,V004538,C0156,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00735,2026-02-24 00:25,V004618,,Balcão,5,Atendimento rápido e café excelente.
+A01497,2026-02-24 02:47,V004645,,Balcão,5,Atendimento rápido e café excelente.
+A00776,2026-02-24 03:49,V004649,,Balcão,3,"Ok, nada de especial."
+A01296,2026-02-24 06:28,V004597,C0112,Balcão,4,Melhor cuscuz da orla!
+A01672,2026-02-24 12:40,V004653,,Balcão,3,"Ok, nada de especial."
+A01228,2026-02-24 15:00,V004714,C0502,iFood,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01068,2026-02-24 15:47,V004707,C1130,Balcão,4,Atendimento rápido e café excelente.
+A00795,2026-02-24 16:37,V004615,C0274,iFood,3,"Bom café, mas o ambiente estava cheio."
+A00681,2026-02-24 22:08,V004690,C0887,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01064,2026-02-25 01:14,V004675,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00738,2026-02-25 10:28,V004703,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00993,2026-02-25 11:33,V004715,C0647,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01216,2026-02-25 13:11,V004706,C0763,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01003,2026-02-25 17:37,V004770,,iFood,5,Preço justo e comida gostosa.
+A01508,2026-02-25 18:05,V004746,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01140,2026-02-26 11:07,V004730,C1006,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01532,2026-02-26 13:13,V004803,,Balcão,5,Atendimento rápido e café excelente.
+A01688,2026-02-26 14:40,V004821,C0437,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00837,2026-02-26 16:00,V004863,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00457,2026-02-27 07:22,V004834,C0897,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01443,2026-02-27 14:03,V004805,C0610,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00178,2026-02-28 10:46,V004969,C0307,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00034,2026-02-28 16:12,V004880,C0112,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A01622,2026-02-28 19:59,V005043,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A01438,2026-03-01 17:55,V005083,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00772,2026-03-01 19:34,V005152,C0806,iFood,5,Cappuccino cremoso e bem feito.
+A01026,2026-03-01 21:38,V005121,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01243,2026-03-02 05:43,V005073,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00926,2026-03-02 06:47,V005117,,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A00637,2026-03-02 13:34,V005070,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01277,2026-03-02 17:13,V005077,C0126,Balcão,4,Melhor cuscuz da orla!
+A00562,2026-03-02 19:26,V005200,,Balcão,,Melhor cuscuz da orla!
+A00468,2026-03-02 22:09,V005109,C1068,Balcão,5,Cappuccino cremoso e bem feito.
+A00107,2026-03-03 02:59,V005206,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01151,2026-03-03 14:01,V005163,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01130,2026-03-03 14:36,V005221,C0552,Balcão,5,Preço justo e comida gostosa.
+A00620,2026-03-03 16:57,V005202,C0761,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01639,2026-03-03 17:43,V005285,C0052,Balcão,5,Cappuccino cremoso e bem feito.
+A01501,2026-03-03 21:37,V005219,C0769,Balcão,4,Atendimento rápido e café excelente.
+A00516,2026-03-04 04:45,V005220,C0605,iFood,3,"Ok, nada de especial."
+A00453,2026-03-04 05:24,V005246,C0222,Balcão,4,Cappuccino cremoso e bem feito.
+A01253,2026-03-04 12:35,V005233,C0594,Balcão,4,Cappuccino cremoso e bem feito.
+A01005,2026-03-04 13:43,V005239,C0997,Balcão,4,"Equipe muito simpática, sempre volto."
+A00308,2026-03-04 17:25,V005248,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00186,2026-03-05 00:17,V005298,C1139,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01491,2026-03-05 09:10,V005407,,Balcão,4,Atendimento rápido e café excelente.
+A00055,2026-03-05 13:33,V005414,,Balcão,4,Cappuccino cremoso e bem feito.
+A00041,2026-03-05 14:28,V005339,C0011,Balcão,5,Melhor cuscuz da orla!
+A00727,2026-03-05 21:02,V005366,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00582,2026-03-05 22:55,V005371,C1090,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00856,2026-03-06 14:45,V005472,C0560,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01656,2026-03-06 15:01,V005526,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00923,2026-03-06 19:02,V005474,C0674,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00978,2026-03-06 21:34,V005432,C1130,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00045,2026-03-07 07:25,V005480,,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A00957,2026-03-07 09:48,V005449,C0555,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00165,2026-03-07 10:56,V005435,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00807,2026-03-07 11:02,V005475,C0030,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00019,2026-03-07 11:15,V005448,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01566,2026-03-07 17:13,V005575,C0785,Balcão,4,Preço justo e comida gostosa.
+A00252,2026-03-07 22:09,V005551,C0584,iFood,3,"Gostei, mas achei o croissant meio seco."
+A00394,2026-03-08 12:56,V005581,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01599,2026-03-08 19:35,V005563,C1111,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00651,2026-03-08 21:11,V005719,,Balcão,,A tapioca de carne de sol é a melhor de João Pessoa.
+A00248,2026-03-08 22:11,V005663,C0124,Balcão,5,"Equipe muito simpática, sempre volto."
+A00067,2026-03-09 07:20,V005718,C0593,Balcão,4,"Equipe muito simpática, sempre volto."
+A00082,2026-03-09 08:49,V005699,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01016,2026-03-09 12:11,V005709,C1032,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00244,2026-03-09 12:27,V005725,,Balcão,,"Ambiente aconchegante, ótimo pra trabalhar."
+A00908,2026-03-09 16:14,V005696,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01479,2026-03-09 17:11,V005827,C0223,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00571,2026-03-09 19:57,V005689,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00762,2026-03-09 21:34,V005814,C1118,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01456,2026-03-10 01:22,V005823,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00791,2026-03-10 02:46,V005824,C1149,iFood,5,Cappuccino cremoso e bem feito.
+A00889,2026-03-10 09:05,V005822,C0581,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00247,2026-03-10 11:21,V005920,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00422,2026-03-10 11:28,V005898,,Balcão,5,Atendimento rápido e café excelente.
+A01615,2026-03-10 17:49,V005829,C1111,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00700,2026-03-10 20:16,V005772,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00240,2026-03-10 21:46,V005843,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00519,2026-03-10 22:05,V005875,C0795,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01450,2026-03-10 23:39,V005862,,Balcão,5,Cappuccino cremoso e bem feito.
+A01498,2026-03-11 00:35,V005876,C0756,Balcão,4,Cappuccino cremoso e bem feito.
+A00380,2026-03-11 05:03,V005888,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00541,2026-03-11 05:22,V005840,C0801,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01586,2026-03-11 06:44,V005919,,iFood,4,Melhor cuscuz da orla!
+A00060,2026-03-11 14:13,V005857,,Balcão,5,Melhor cuscuz da orla!
+A01547,2026-03-11 21:37,V005925,,Balcão,,Atendimento rápido e café excelente.
+A00928,2026-03-12 02:20,V005939,,Balcão,5,Preço justo e comida gostosa.
+A01689,2026-03-12 12:44,V005981,C0451,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00236,2026-03-12 15:23,V005948,C0537,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01339,2026-03-12 21:21,V006020,,Balcão,3,"Ok, nada de especial."
+A00765,2026-03-13 00:46,V006018,,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01147,2026-03-13 04:17,V006029,C0718,iFood,3,"Bom, mas o estacionamento é difícil."
+A01113,2026-03-13 06:12,V006046,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00901,2026-03-13 06:32,V006050,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00007,2026-03-13 12:24,V006013,,Balcão,5,Atendimento rápido e café excelente.
+A01614,2026-03-13 14:08,V006022,C0422,Balcão,4,Preço justo e comida gostosa.
+A00307,2026-03-13 14:43,V006112,C0954,iFood,5,"Gostei muito do café gelado, refrescante."
+A00511,2026-03-13 16:31,V006141,C1173,Balcão,5,"Equipe muito simpática, sempre volto."
+A01283,2026-03-13 21:33,V006160,C0290,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01203,2026-03-14 05:31,V006110,,Balcão,5,Melhor cuscuz da orla!
+A01249,2026-03-14 06:08,V006166,C1173,Balcão,4,Atendimento rápido e café excelente.
+A01326,2026-03-14 07:53,V006133,C0581,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01422,2026-03-14 08:24,V006097,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01445,2026-03-14 10:18,V006093,,iFood,4,Atendimento rápido e café excelente.
+A00701,2026-03-14 10:30,V006156,C0704,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00087,2026-03-14 11:10,V006196,C0743,Balcão,5,"Equipe muito simpática, sempre volto."
+A01530,2026-03-14 11:57,V006136,,Balcão,5,Atendimento rápido e café excelente.
+A00340,2026-03-14 12:59,V006173,C0525,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00485,2026-03-14 16:06,V006231,,Balcão,5,Cappuccino cremoso e bem feito.
+A01144,2026-03-14 16:29,V006154,C0859,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00495,2026-03-14 16:54,V006270,,Balcão,4,Melhor cuscuz da orla!
+A01190,2026-03-14 21:41,V006139,C0600,Balcão,5,Melhor cuscuz da orla!
+A01518,2026-03-14 21:51,V006183,C0439,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01535,2026-03-15 05:05,V006200,,Balcão,5,Atendimento rápido e café excelente.
+A00249,2026-03-15 05:47,V006269,,Balcão,3,"Ok, nada de especial."
+A01623,2026-03-15 06:39,V006212,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01690,2026-03-15 09:25,V006193,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00608,2026-03-15 10:08,V006263,C0162,Balcão,3,"Ok, nada de especial."
+A00788,2026-03-15 12:05,V006279,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01310,2026-03-16 05:44,V006364,C0007,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01051,2026-03-16 07:10,V006372,C0404,Balcão,5,Cappuccino cremoso e bem feito.
+A00689,2026-03-16 16:48,V006441,C0186,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00399,2026-03-16 19:29,V006417,C0795,iFood,5,Cappuccino cremoso e bem feito.
+A01337,2026-03-16 22:04,V006306,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01099,2026-03-17 02:25,V006399,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00743,2026-03-17 07:14,V006422,C0639,iFood,3,"Bom, mas o estacionamento é difícil."
+A00439,2026-03-17 10:24,V006433,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00972,2026-03-17 13:40,V006507,C1136,Balcão,5,Preço justo e comida gostosa.
+A00131,2026-03-17 18:28,V006413,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01520,2026-03-17 19:56,V006485,C0445,Balcão,3,"Ok, nada de especial."
+A01583,2026-03-18 03:54,V006463,C0707,iFood,4,Bolo de macaxeira igual ao da minha avó.
+A00609,2026-03-18 08:48,V006464,,iFood,5,"Equipe muito simpática, sempre volto."
+A00057,2026-03-18 11:42,V006449,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01393,2026-03-18 13:19,V006500,C0186,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A01257,2026-03-18 15:11,V006505,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00179,2026-03-18 16:18,V006454,C0027,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00782,2026-03-18 19:50,V006604,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01447,2026-03-19 05:07,V006553,C0884,Balcão,4,Preço justo e comida gostosa.
+A00809,2026-03-19 05:56,V006537,C0751,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01582,2026-03-19 08:55,V006564,,Balcão,5,Melhor cuscuz da orla!
+A00596,2026-03-19 09:49,V006531,,iFood,5,Preço justo e comida gostosa.
+A01509,2026-03-19 10:22,V006591,,iFood,4,Preço justo e comida gostosa.
+A01164,2026-03-19 10:30,V006544,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00458,2026-03-19 13:43,V006623,C0116,Balcão,3,"Ok, nada de especial."
+A00407,2026-03-19 16:47,V006636,C0819,Balcão,4,"Equipe muito simpática, sempre volto."
+A01446,2026-03-19 23:28,V006634,,Balcão,5,Melhor cuscuz da orla!
+A01534,2026-03-19 23:54,V006690,C0259,Balcão,4,Preço justo e comida gostosa.
+A01484,2026-03-20 05:40,V006677,C0845,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01272,2026-03-20 06:17,V006689,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01584,2026-03-20 07:42,V006640,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00024,2026-03-20 10:05,V006607,C1118,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01202,2026-03-20 11:29,V006612,,Balcão,5,Cappuccino cremoso e bem feito.
+A00046,2026-03-20 11:53,V006611,C0946,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00410,2026-03-20 13:32,V006662,C1049,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01410,2026-03-20 14:10,V006670,C1090,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00414,2026-03-20 16:08,V006724,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00756,2026-03-20 16:52,V006680,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01560,2026-03-20 17:45,V006695,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01115,2026-03-20 18:06,V006739,,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A00359,2026-03-20 20:30,V006641,C1023,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00797,2026-03-20 22:08,V006726,C0969,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00203,2026-03-21 18:38,V006876,C0273,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00787,2026-03-21 19:25,V006864,,Balcão,4,Cappuccino cremoso e bem feito.
+A01663,2026-03-22 02:19,V006873,C0859,Balcão,4,Melhor cuscuz da orla!
+A01435,2026-03-22 06:06,V006860,C0938,Balcão,5,"Equipe muito simpática, sempre volto."
+A00966,2026-03-22 12:50,V006901,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01340,2026-03-22 17:15,V006799,C0559,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00494,2026-03-23 00:15,V006932,C0545,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01127,2026-03-23 06:50,V006936,,Balcão,4,Atendimento rápido e café excelente.
+A00267,2026-03-23 09:33,V007005,C1052,Balcão,5,"Equipe muito simpática, sempre volto."
+A00018,2026-03-23 10:26,V006986,C0751,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00554,2026-03-24 05:03,V007061,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00510,2026-03-24 07:54,V007067,C0706,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01490,2026-03-24 18:13,V007134,,iFood,3,"Bom, mas o estacionamento é difícil."
+A00758,2026-03-24 20:34,V007093,C1001,iFood,4,"Equipe muito simpática, sempre volto."
+A01542,2026-03-25 02:15,V007107,C0443,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A00984,2026-03-25 06:47,V007157,C1088,iFood,,"Ambiente aconchegante, ótimo pra trabalhar."
+A01442,2026-03-25 09:53,V007199,C0063,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00044,2026-03-25 15:50,V007099,C1087,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01279,2026-03-25 18:34,V007176,C0969,Balcão,5,Cappuccino cremoso e bem feito.
+A00579,2026-03-25 19:33,V007090,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00884,2026-03-25 19:42,V007218,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00002,2026-03-25 20:13,V007184,C0319,iFood,,"Pão de queijo quentinho e café forte, perfeito."
+A00367,2026-03-25 20:50,V007214,C0572,Balcão,4,Cappuccino cremoso e bem feito.
+A01523,2026-03-25 21:45,V007156,C0879,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00668,2026-03-26 01:38,V007213,C1160,Balcão,4,Cappuccino cremoso e bem feito.
+A01664,2026-03-26 05:02,V007234,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00699,2026-03-26 06:12,V007233,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00892,2026-03-26 13:10,V007175,C0821,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00342,2026-03-26 14:52,V007229,C0899,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00513,2026-03-26 18:32,V007191,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01477,2026-03-26 21:08,V007304,C0841,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01400,2026-03-27 05:47,V007260,C1092,Balcão,4,Melhor cuscuz da orla!
+A00302,2026-03-27 07:17,V007258,,Balcão,5,Preço justo e comida gostosa.
+A00955,2026-03-27 12:44,V007243,C0383,Balcão,,A tapioca de carne de sol é a melhor de João Pessoa.
+A00902,2026-03-27 13:39,V007270,,Balcão,5,Preço justo e comida gostosa.
+A00823,2026-03-27 16:07,V007313,C0007,iFood,5,"Equipe muito simpática, sempre volto."
+A00444,2026-03-27 20:06,V007389,C0861,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00740,2026-03-27 21:25,V007338,C0664,Balcão,5,Preço justo e comida gostosa.
+A00533,2026-03-28 02:20,V007357,C0499,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00784,2026-03-28 14:03,V007418,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00989,2026-03-28 14:45,V007516,C0209,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00488,2026-03-28 16:14,V007344,,Balcão,4,"Equipe muito simpática, sempre volto."
+A01480,2026-03-28 18:10,V007417,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00017,2026-03-28 21:15,V007463,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00383,2026-03-28 22:56,V007455,C0778,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00890,2026-03-28 23:32,V007437,,iFood,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00621,2026-03-29 00:53,V007484,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00402,2026-03-29 04:42,V007520,C0637,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00353,2026-03-29 05:26,V007513,,Balcão,3,"Ok, nada de especial."
+A01159,2026-03-29 07:22,V007436,C0356,iFood,5,Atendimento rápido e café excelente.
+A00850,2026-03-29 09:42,V007449,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00448,2026-03-29 10:26,V007507,C0505,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00838,2026-03-29 13:17,V007462,C0761,Balcão,3,"Ok, nada de especial."
+A01619,2026-03-29 14:33,V007439,C0349,Balcão,3,"Ok, nada de especial."
+A00814,2026-03-29 14:54,V007415,,iFood,5,Atendimento rápido e café excelente.
+A00764,2026-03-29 16:47,V007562,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00254,2026-03-29 19:06,V007600,C0395,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00216,2026-03-29 19:45,V007579,C0581,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00253,2026-03-29 20:28,V007536,C0801,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00097,2026-03-29 21:48,V007582,C0052,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00031,2026-03-30 09:13,V007621,C0667,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01381,2026-03-30 11:36,V007581,C0572,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01359,2026-03-30 16:14,V007650,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01065,2026-03-30 20:48,V007653,C0358,iFood,3,"Gostei, mas achei o croissant meio seco."
+A00537,2026-03-31 13:22,V007746,C0100,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01199,2026-04-01 02:06,V007686,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01039,2026-04-01 09:26,V007714,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00520,2026-04-01 10:05,V007709,C0441,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00262,2026-04-01 17:56,V007753,,Balcão,3,"Ok, nada de especial."
+A00919,2026-04-02 02:01,V007811,C0824,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00404,2026-04-02 04:27,V007781,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00875,2026-04-02 12:39,V007765,C0463,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00995,2026-04-02 14:53,V007853,,Balcão,,Melhor cuscuz da orla!
+A00102,2026-04-02 23:37,V007822,C1065,iFood,4,"Gostei muito do café gelado, refrescante."
+A01358,2026-04-03 02:42,V007835,C0117,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00770,2026-04-03 11:42,V007877,C0745,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01346,2026-04-03 12:20,V007944,C0495,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01457,2026-04-03 15:20,V007852,C1089,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00028,2026-04-03 16:21,V007983,,iFood,5,"Equipe muito simpática, sempre volto."
+A01458,2026-04-03 20:41,V007952,C0007,Balcão,4,Cappuccino cremoso e bem feito.
+A00679,2026-04-04 01:25,V007982,C0002,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01004,2026-04-04 03:12,V007935,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01223,2026-04-04 03:32,V007931,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00697,2026-04-04 06:11,V007903,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00300,2026-04-04 11:32,V007917,C0699,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00862,2026-04-04 16:52,V008018,C0352,iFood,5,Cappuccino cremoso e bem feito.
+A00058,2026-04-04 18:07,V008030,C0571,iFood,4,"Equipe muito simpática, sempre volto."
+A01316,2026-04-04 19:13,V008049,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00139,2026-04-04 22:05,V008067,C1092,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00385,2026-04-05 00:30,V008091,,Balcão,4,Cappuccino cremoso e bem feito.
+A00979,2026-04-05 05:36,V008083,C0906,Balcão,3,"Ok, nada de especial."
+A00195,2026-04-05 07:14,V008042,C1049,iFood,3,"Bom, mas o estacionamento é difícil."
+A00460,2026-04-05 12:41,V008097,,iFood,5,Atendimento rápido e café excelente.
+A01189,2026-04-05 18:15,V008033,C0537,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00544,2026-04-05 18:40,V008137,,Balcão,5,Cappuccino cremoso e bem feito.
+A00891,2026-04-05 19:35,V008127,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00877,2026-04-06 08:33,V008106,C0871,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01231,2026-04-06 18:11,V008123,C0975,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01160,2026-04-06 20:21,V008190,C1140,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00048,2026-04-07 07:44,V008222,C0768,Balcão,5,Preço justo e comida gostosa.
+A00288,2026-04-07 09:39,V008272,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00707,2026-04-07 10:57,V008232,C0192,Balcão,4,Atendimento rápido e café excelente.
+A00454,2026-04-07 11:16,V008203,C0346,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00948,2026-04-07 15:45,V008206,C0751,Balcão,5,Preço justo e comida gostosa.
+A00507,2026-04-07 22:25,V008274,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01145,2026-04-08 04:58,V008256,C0392,Balcão,3,"Ok, nada de especial."
+A01404,2026-04-08 06:09,V008250,C0703,Balcão,5,Preço justo e comida gostosa.
+A01697,2026-04-08 06:16,V008252,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01079,2026-04-08 14:26,V008359,C0549,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00075,2026-04-08 21:28,V008305,C1073,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01156,2026-04-09 03:19,V008355,C0920,Balcão,4,"Equipe muito simpática, sempre volto."
+A00469,2026-04-09 06:06,V008328,C0604,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00848,2026-04-09 09:16,V008314,C0140,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01308,2026-04-09 13:25,V008321,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00281,2026-04-09 15:13,V008420,C0375,Balcão,4,Cappuccino cremoso e bem feito.
+A00888,2026-04-09 18:16,V008342,C0457,Balcão,5,Cappuccino cremoso e bem feito.
+A00339,2026-04-09 19:28,V008435,C0497,iFood,,"Gostei, mas achei o croissant meio seco."
+A00525,2026-04-09 20:29,V008348,C0041,iFood,5,Melhor cuscuz da orla!
+A00192,2026-04-10 04:42,V008418,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01084,2026-04-10 10:56,V008367,C0785,Balcão,5,Melhor cuscuz da orla!
+A00224,2026-04-10 14:39,V008442,C0395,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00408,2026-04-10 15:40,V008403,C1045,iFood,4,"Equipe muito simpática, sempre volto."
+A01222,2026-04-10 22:55,V008523,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01112,2026-04-10 23:14,V008539,C0642,Balcão,4,"Equipe muito simpática, sempre volto."
+A01473,2026-04-11 01:21,V008518,C0062,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01126,2026-04-11 05:40,V008531,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01092,2026-04-11 11:06,V008457,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00098,2026-04-11 12:11,V008562,C0042,Balcão,5,"Equipe muito simpática, sempre volto."
+A01394,2026-04-11 13:46,V008471,,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01119,2026-04-11 16:23,V008611,C1155,iFood,3,"Bom, mas o estacionamento é difícil."
+A01327,2026-04-11 20:51,V008547,,Balcão,5,Atendimento rápido e café excelente.
+A00600,2026-04-11 21:25,V008546,C0307,Balcão,4,Melhor cuscuz da orla!
+A00641,2026-04-11 21:59,V008552,C0883,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00929,2026-04-11 22:53,V008607,,iFood,4,Cappuccino cremoso e bem feito.
+A01537,2026-04-12 00:40,V008624,C0099,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00722,2026-04-12 01:43,V008555,,Balcão,5,Cappuccino cremoso e bem feito.
+A01289,2026-04-12 03:22,V008631,,Balcão,5,Atendimento rápido e café excelente.
+A00800,2026-04-12 06:31,V008642,C0077,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00116,2026-04-12 08:52,V008648,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01601,2026-04-12 12:51,V008628,C0468,Balcão,4,Atendimento rápido e café excelente.
+A01024,2026-04-12 13:49,V008657,,Balcão,5,Cappuccino cremoso e bem feito.
+A01372,2026-04-12 16:01,V008708,C1195,Balcão,5,Atendimento rápido e café excelente.
+A00346,2026-04-12 16:01,V008739,C0674,Balcão,4,Cappuccino cremoso e bem feito.
+A01281,2026-04-12 20:24,V008571,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01269,2026-04-13 00:46,V008719,C0929,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00617,2026-04-13 02:17,V008728,C0155,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00406,2026-04-13 02:50,V008746,C1084,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01425,2026-04-13 05:04,V008715,C0101,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00745,2026-04-13 08:28,V008694,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01261,2026-04-13 12:45,V008771,C0801,Balcão,5,Melhor cuscuz da orla!
+A01444,2026-04-13 17:14,V008732,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00166,2026-04-13 18:36,V008844,,Balcão,4,"Equipe muito simpática, sempre volto."
+A01342,2026-04-13 19:36,V008743,C0281,iFood,5,Preço justo e comida gostosa.
+A01387,2026-04-13 19:50,V008836,C1008,Balcão,,"Gostei muito do café gelado, refrescante."
+A00345,2026-04-14 01:05,V008832,C0604,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00172,2026-04-14 03:05,V008814,C0882,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00587,2026-04-14 04:05,V008822,,Balcão,4,Melhor cuscuz da orla!
+A00452,2026-04-14 04:35,V008818,C0795,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00801,2026-04-14 10:07,V008784,,Balcão,5,Melhor cuscuz da orla!
+A00492,2026-04-14 10:15,V008911,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00390,2026-04-14 11:06,V008867,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00944,2026-04-14 12:05,V008823,C1075,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01571,2026-04-14 12:39,V008788,C0429,Balcão,3,"Ok, nada de especial."
+A00037,2026-04-14 18:52,V008865,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00362,2026-04-14 19:02,V008791,C0834,Balcão,5,Cappuccino cremoso e bem feito.
+A00655,2026-04-14 19:35,V008786,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00239,2026-04-14 20:51,V008876,C0128,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00251,2026-04-14 22:16,V008914,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01270,2026-04-15 07:36,V008894,C0572,Balcão,4,Melhor cuscuz da orla!
+A00155,2026-04-15 11:00,V008856,,Balcão,4,Cappuccino cremoso e bem feito.
+A01105,2026-04-15 13:06,V008979,,iFood,5,"Gostei muito do café gelado, refrescante."
+A01143,2026-04-15 14:06,V008937,C0143,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01017,2026-04-15 14:29,V008869,C0743,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01142,2026-04-15 20:26,V008931,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00196,2026-04-15 21:42,V008960,,Balcão,3,"Ok, nada de especial."
+A00647,2026-04-16 09:24,V008969,C1129,iFood,4,"Equipe muito simpática, sempre volto."
+A00860,2026-04-16 14:08,V008918,C0268,iFood,3,"Bom café, mas o ambiente estava cheio."
+A01369,2026-04-16 14:26,V008927,C0279,Balcão,5,Melhor cuscuz da orla!
+A01453,2026-04-16 18:51,V008997,,Balcão,5,Preço justo e comida gostosa.
+A01399,2026-04-16 22:30,V009046,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00008,2026-04-16 23:10,V009078,,Balcão,5,Preço justo e comida gostosa.
+A00836,2026-04-17 02:19,V009005,,Balcão,4,"Equipe muito simpática, sempre volto."
+A01650,2026-04-17 09:19,V009036,C1109,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00894,2026-04-17 10:10,V009037,C0659,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00146,2026-04-17 16:23,V009086,C0660,iFood,3,"Comida boa, atendimento poderia ser mais rápido."
+A00459,2026-04-17 16:28,V009030,C0790,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00392,2026-04-17 19:52,V009125,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01263,2026-04-17 20:39,V008992,C0920,Balcão,5,Preço justo e comida gostosa.
+A01474,2026-04-17 23:21,V009141,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00481,2026-04-17 23:52,V009089,C0733,Balcão,5,Melhor cuscuz da orla!
+A01649,2026-04-18 03:00,V009154,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00628,2026-04-18 06:05,V009080,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01008,2026-04-18 07:25,V009113,,Balcão,4,Cappuccino cremoso e bem feito.
+A01152,2026-04-18 09:35,V009115,C0348,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01681,2026-04-18 10:41,V009097,,iFood,5,Cappuccino cremoso e bem feito.
+A00531,2026-04-18 12:10,V009206,,iFood,3,"Gostei, mas achei o croissant meio seco."
+A01539,2026-04-18 12:50,V009132,C0950,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00313,2026-04-18 20:38,V009171,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00187,2026-04-18 20:58,V009110,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00211,2026-04-19 00:31,V009193,,iFood,4,Preço justo e comida gostosa.
+A00961,2026-04-19 03:36,V009203,C0868,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01292,2026-04-19 04:57,V009257,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00597,2026-04-19 05:00,V009218,,Balcão,5,Atendimento rápido e café excelente.
+A00599,2026-04-19 09:42,V009330,C0136,Balcão,5,Preço justo e comida gostosa.
+A00372,2026-04-19 10:21,V009185,C0219,Balcão,4,Preço justo e comida gostosa.
+A01371,2026-04-19 16:03,V009172,C1137,iFood,5,Preço justo e comida gostosa.
+A00497,2026-04-19 19:45,V009300,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00118,2026-04-19 21:59,V009343,C0144,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00493,2026-04-20 00:48,V009319,C0142,Balcão,4,"Equipe muito simpática, sempre volto."
+A01618,2026-04-20 01:31,V009201,,Balcão,4,Melhor cuscuz da orla!
+A01611,2026-04-20 04:19,V009356,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00199,2026-04-20 06:28,V009360,,iFood,4,"Pão de queijo quentinho e café forte, perfeito."
+A00794,2026-04-20 10:58,V009294,C0970,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00104,2026-04-20 13:58,V009415,C0545,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00360,2026-04-20 14:35,V009287,C0027,iFood,5,Preço justo e comida gostosa.
+A00078,2026-04-20 15:02,V009309,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00557,2026-04-20 16:01,V009332,C1174,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00878,2026-04-20 16:06,V009407,C0461,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00834,2026-04-21 01:17,V009374,,Balcão,5,Preço justo e comida gostosa.
+A00198,2026-04-21 09:04,V009412,C1049,Balcão,4,"Equipe muito simpática, sempre volto."
+A00630,2026-04-21 11:54,V009477,C1154,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A00640,2026-04-21 12:14,V009433,C1191,Balcão,5,Cappuccino cremoso e bem feito.
+A00761,2026-04-21 15:05,V009444,C0103,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00446,2026-04-22 10:15,V009553,C0630,Balcão,5,Melhor cuscuz da orla!
+A00188,2026-04-22 15:57,V009466,,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A00999,2026-04-22 17:34,V009487,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00882,2026-04-23 03:04,V009506,C0621,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01271,2026-04-23 07:40,V009540,,Balcão,5,Atendimento rápido e café excelente.
+A01258,2026-04-23 10:17,V009552,C0706,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01414,2026-04-23 11:23,V009563,C0707,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01603,2026-04-23 13:43,V009565,C0919,Balcão,3,"Ok, nada de especial."
+A00813,2026-04-24 02:37,V009627,C0049,Balcão,4,Preço justo e comida gostosa.
+A00063,2026-04-24 03:24,V009615,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00208,2026-04-24 07:30,V009623,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01341,2026-04-24 08:39,V009621,C0023,Balcão,3,"Ok, nada de especial."
+A01510,2026-04-24 15:10,V009661,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01131,2026-04-24 15:21,V009715,C0106,Balcão,5,Atendimento rápido e café excelente.
+A00356,2026-04-24 16:52,V009706,C0414,iFood,4,"Pão de queijo quentinho e café forte, perfeito."
+A00778,2026-04-24 21:41,V009690,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01238,2026-04-25 10:44,V009755,C0525,Balcão,5,"Equipe muito simpática, sempre volto."
+A01377,2026-04-25 11:15,V009670,,iFood,5,"Equipe muito simpática, sempre volto."
+A00065,2026-04-25 11:23,V009764,C0929,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00512,2026-04-25 14:07,V009770,C0279,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00526,2026-04-25 21:28,V009807,C1160,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00607,2026-04-25 22:31,V009762,C0647,iFood,4,"Lugar lindo, perto da praia, recomendo."
+A00858,2026-04-26 17:29,V009766,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00213,2026-04-26 22:07,V009919,,Balcão,5,Cappuccino cremoso e bem feito.
+A01054,2026-04-27 04:52,V009880,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00033,2026-04-27 06:45,V009914,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01226,2026-04-27 11:44,V009937,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00255,2026-04-27 13:22,V010005,C1161,Balcão,5,Cappuccino cremoso e bem feito.
+A00661,2026-04-27 13:25,V009933,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00145,2026-04-27 14:10,V009872,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00939,2026-04-27 14:55,V009973,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00324,2026-04-27 18:22,V009971,C0014,iFood,5,Atendimento rápido e café excelente.
+A01682,2026-04-28 08:47,V009941,C0854,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00623,2026-04-28 10:25,V009958,C1035,iFood,,"Lugar lindo, perto da praia, recomendo."
+A00135,2026-04-28 14:38,V009960,C0235,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00397,2026-04-28 19:02,V009947,C0095,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00671,2026-04-28 19:07,V010051,C0284,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01695,2026-04-29 09:58,V010009,,iFood,4,"Café maravilhoso, atendimento nota 10!"
+A01006,2026-04-29 10:23,V010071,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00122,2026-04-29 10:34,V010073,C0802,Balcão,5,"Equipe muito simpática, sempre volto."
+A01040,2026-04-29 17:52,V010135,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00635,2026-04-29 19:27,V010094,C0014,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00514,2026-04-30 12:31,V010210,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00832,2026-04-30 21:21,V010181,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00712,2026-04-30 21:46,V010198,C0556,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01409,2026-05-01 05:53,V010186,,Balcão,4,Preço justo e comida gostosa.
+A00781,2026-05-01 06:15,V010192,C0679,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01009,2026-05-01 11:09,V010209,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00006,2026-05-02 16:57,V010285,,Balcão,4,Melhor cuscuz da orla!
+A01676,2026-05-02 18:19,V010307,C0102,iFood,5,Preço justo e comida gostosa.
+A00144,2026-05-02 18:26,V010334,C1011,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01057,2026-05-02 18:49,V010378,C0505,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01667,2026-05-02 21:03,V010420,C0802,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00167,2026-05-03 00:14,V010316,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01448,2026-05-03 00:53,V010278,C0689,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00430,2026-05-03 06:23,V010390,C0375,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00336,2026-05-03 08:34,V010349,C1162,Balcão,5,Preço justo e comida gostosa.
+A00377,2026-05-03 08:38,V010470,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00853,2026-05-03 10:19,V010369,C0343,iFood,4,"Equipe muito simpática, sempre volto."
+A00802,2026-05-03 22:23,V010432,C0186,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00009,2026-05-04 03:33,V010483,C0836,Balcão,5,"Equipe muito simpática, sempre volto."
+A01454,2026-05-04 09:30,V010435,C0802,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01430,2026-05-05 04:52,V010565,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00678,2026-05-05 06:47,V010514,C0266,iFood,,"Comida boa, atendimento poderia ser mais rápido."
+A00326,2026-05-05 07:31,V010561,,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00156,2026-05-05 08:35,V010571,C0065,iFood,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00899,2026-05-05 16:09,V010599,,Balcão,3,"Ok, nada de especial."
+A00026,2026-05-05 16:51,V010631,,Balcão,5,Atendimento rápido e café excelente.
+A01536,2026-05-06 05:39,V010596,,Balcão,5,Melhor cuscuz da orla!
+A00992,2026-05-06 07:32,V010651,C0326,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01240,2026-05-06 11:06,V010620,C0818,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00426,2026-05-06 14:44,V010597,C0469,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01572,2026-05-06 16:47,V010674,C0940,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00212,2026-05-06 22:40,V010614,C0613,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00190,2026-05-07 04:30,V010666,C0525,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A00283,2026-05-07 10:25,V010685,C1068,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00245,2026-05-07 13:58,V010709,,iFood,5,Cappuccino cremoso e bem feito.
+A01179,2026-05-07 15:55,V010680,,iFood,4,"Gostei muito do café gelado, refrescante."
+A00942,2026-05-07 22:27,V010697,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00455,2026-05-07 22:38,V010779,,Balcão,5,Melhor cuscuz da orla!
+A00293,2026-05-08 10:44,V010772,,Balcão,,"Pão de queijo quentinho e café forte, perfeito."
+A01634,2026-05-08 12:08,V010881,C0120,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00473,2026-05-08 14:23,V010762,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00603,2026-05-08 15:05,V010801,C0099,Balcão,5,Melhor cuscuz da orla!
+A00020,2026-05-08 18:26,V010833,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00967,2026-05-09 05:18,V010864,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00047,2026-05-09 06:29,V010832,C0544,Balcão,5,"Equipe muito simpática, sempre volto."
+A01431,2026-05-09 16:33,V010948,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01318,2026-05-09 17:10,V010989,C0391,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00158,2026-05-09 18:06,V011011,C1137,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00320,2026-05-09 19:38,V010935,C0308,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01185,2026-05-09 20:29,V010857,C0861,iFood,4,"Café maravilhoso, atendimento nota 10!"
+A00666,2026-05-09 20:29,V010916,C1023,Balcão,5,Preço justo e comida gostosa.
+A00369,2026-05-09 21:26,V010898,C0951,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00852,2026-05-09 22:42,V010944,C0505,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00530,2026-05-10 09:05,V011037,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00070,2026-05-10 12:45,V010987,C1090,iFood,4,"Gostei muito do café gelado, refrescante."
+A00968,2026-05-10 18:05,V011154,C0910,iFood,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00644,2026-05-10 21:48,V011117,C0391,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01282,2026-05-11 06:15,V011104,,Balcão,5,Atendimento rápido e café excelente.
+A00328,2026-05-11 10:35,V011175,C0111,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01696,2026-05-11 13:50,V011159,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00061,2026-05-11 15:43,V011098,,Balcão,4,Atendimento rápido e café excelente.
+A01345,2026-05-11 18:41,V011221,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00250,2026-05-11 23:24,V011197,C0846,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00084,2026-05-12 01:51,V011161,C0192,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00816,2026-05-12 07:47,V011195,C0310,Balcão,4,Melhor cuscuz da orla!
+A00810,2026-05-12 14:25,V011246,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00013,2026-05-12 15:36,V011233,C0988,Balcão,4,Melhor cuscuz da orla!
+A01526,2026-05-12 15:36,V011210,C0894,iFood,4,Cappuccino cremoso e bem feito.
+A01053,2026-05-12 20:06,V011278,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00951,2026-05-13 12:22,V011272,C0703,Balcão,5,Cappuccino cremoso e bem feito.
+A01077,2026-05-13 14:45,V011321,C0535,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00162,2026-05-13 17:37,V011327,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00370,2026-05-13 18:40,V011313,C0805,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00799,2026-05-13 23:02,V011364,C1043,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00265,2026-05-14 23:29,V011351,,iFood,4,Atendimento rápido e café excelente.
+A00243,2026-05-15 04:46,V011398,C0094,Balcão,5,Cappuccino cremoso e bem feito.
+A00611,2026-05-15 20:04,V011557,C0694,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00382,2026-05-15 20:17,V011427,C1078,iFood,5,Cappuccino cremoso e bem feito.
+A00532,2026-05-15 20:28,V011553,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00073,2026-05-16 01:50,V011562,C1092,Balcão,5,Preço justo e comida gostosa.
+A00036,2026-05-16 10:41,V011534,C0765,Balcão,4,Melhor cuscuz da orla!
+A01165,2026-05-16 17:40,V011665,,Balcão,5,Cappuccino cremoso e bem feito.
+A00731,2026-05-17 00:52,V011596,C1189,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01420,2026-05-17 00:59,V011640,C0155,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01360,2026-05-17 01:01,V011581,C0282,Balcão,,A tapioca de carne de sol é a melhor de João Pessoa.
+A01093,2026-05-17 12:01,V011645,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00259,2026-05-17 12:02,V011683,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01122,2026-05-17 12:43,V011622,C0418,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01170,2026-05-17 14:03,V011646,C0174,Balcão,5,Atendimento rápido e café excelente.
+A01390,2026-05-17 19:45,V011627,C0320,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00970,2026-05-17 23:15,V011686,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00233,2026-05-18 20:34,V011832,C0103,Balcão,4,Cappuccino cremoso e bem feito.
+A01000,2026-05-18 22:53,V011792,C0778,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01010,2026-05-18 23:04,V011812,C0855,iFood,4,"Gostei muito do café gelado, refrescante."
+A01503,2026-05-18 23:49,V011836,C0552,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00349,2026-05-19 09:37,V011834,C0538,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00150,2026-05-19 12:48,V011794,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00604,2026-05-19 23:17,V011858,C0812,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01298,2026-05-20 00:49,V011893,,Balcão,5,Cappuccino cremoso e bem feito.
+A01206,2026-05-20 02:20,V011859,C0133,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01423,2026-05-20 09:41,V011883,C0707,Balcão,5,Melhor cuscuz da orla!
+A01221,2026-05-20 10:53,V011902,C0573,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00120,2026-05-20 15:08,V011915,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00864,2026-05-20 15:41,V011898,C1064,Balcão,4,Cappuccino cremoso e bem feito.
+A01015,2026-05-20 16:54,V011899,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00496,2026-05-21 08:56,V011937,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00182,2026-05-21 11:50,V011929,,Balcão,4,Atendimento rápido e café excelente.
+A01149,2026-05-21 12:11,V012047,C0114,Balcão,5,Atendimento rápido e café excelente.
+A00242,2026-05-21 22:33,V011962,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01353,2026-05-22 02:35,V012010,C0913,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00849,2026-05-22 04:15,V012029,C0208,iFood,5,"Gostei muito do café gelado, refrescante."
+A01629,2026-05-22 07:19,V012039,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00441,2026-05-22 08:48,V012011,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00931,2026-05-22 13:06,V012057,C0371,Balcão,5,Melhor cuscuz da orla!
+A00101,2026-05-22 16:37,V012075,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01546,2026-05-22 16:44,V012131,,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01129,2026-05-22 16:55,V012132,,Balcão,5,Cappuccino cremoso e bem feito.
+A00708,2026-05-22 18:28,V012043,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01685,2026-05-23 07:22,V012101,C0742,Balcão,3,"Ok, nada de especial."
+A00973,2026-05-23 10:33,V012086,C0741,iFood,5,Melhor cuscuz da orla!
+A00826,2026-05-23 10:43,V012130,C1123,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00197,2026-05-23 11:52,V012091,,Balcão,5,Preço justo e comida gostosa.
+A01252,2026-05-23 12:06,V012067,C1161,iFood,3,"Bom café, mas o ambiente estava cheio."
+A00499,2026-05-23 14:47,V012206,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00524,2026-05-23 16:01,V012201,C0054,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00713,2026-05-23 17:25,V012100,,Balcão,4,Melhor cuscuz da orla!
+A00685,2026-05-23 17:44,V012149,,Balcão,5,Preço justo e comida gostosa.
+A00783,2026-05-23 18:14,V012143,C0650,Balcão,4,Melhor cuscuz da orla!
+A01606,2026-05-23 20:19,V012218,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01153,2026-05-24 01:20,V012172,C0959,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01158,2026-05-24 01:52,V012209,C0337,Balcão,5,Preço justo e comida gostosa.
+A00099,2026-05-24 02:45,V012251,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01640,2026-05-24 08:10,V012222,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00170,2026-05-24 10:48,V012309,C0331,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01654,2026-05-24 10:55,V012177,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00983,2026-05-24 13:05,V012257,C0214,Balcão,5,Preço justo e comida gostosa.
+A00751,2026-05-24 13:11,V012235,C0913,Balcão,4,Atendimento rápido e café excelente.
+A00529,2026-05-24 14:10,V012246,C1098,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01067,2026-05-24 14:27,V012249,,Balcão,4,Atendimento rápido e café excelente.
+A00594,2026-05-24 14:28,V012324,C0597,Balcão,5,Melhor cuscuz da orla!
+A00958,2026-05-24 15:21,V012151,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00151,2026-05-24 18:57,V012363,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01408,2026-05-24 20:07,V012322,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00757,2026-05-25 06:37,V012316,C0466,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01045,2026-05-25 18:35,V012272,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01233,2026-05-25 18:47,V012370,C0042,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01561,2026-05-26 02:23,V012375,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01609,2026-05-26 08:51,V012403,,iFood,4,Bolo de macaxeira igual ao da minha avó.
+A00401,2026-05-26 11:17,V012402,C0695,Balcão,5,"Equipe muito simpática, sempre volto."
+A00154,2026-05-26 14:30,V012450,,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01386,2026-05-27 01:34,V012425,C0069,Balcão,5,Preço justo e comida gostosa.
+A01181,2026-05-27 05:56,V012459,,Balcão,5,Melhor cuscuz da orla!
+A01562,2026-05-27 15:58,V012552,C0495,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01424,2026-05-27 17:56,V012499,,iFood,5,"Equipe muito simpática, sempre volto."
+A01589,2026-05-27 23:05,V012562,,iFood,4,"Lugar lindo, perto da praia, recomendo."
+A00218,2026-05-28 00:03,V012516,C0726,Balcão,5,"Equipe muito simpática, sempre volto."
+A01550,2026-05-28 02:19,V012542,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00506,2026-05-28 08:27,V012536,,iFood,3,"Bom café, mas o ambiente estava cheio."
+A01307,2026-05-28 20:44,V012593,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00011,2026-05-29 03:03,V012585,C0472,iFood,5,Melhor cuscuz da orla!
+A01254,2026-05-29 11:40,V012621,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01573,2026-05-29 13:37,V012609,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00739,2026-05-30 13:49,V012789,,Balcão,5,Atendimento rápido e café excelente.
+A00431,2026-05-30 16:21,V012794,C1137,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00440,2026-05-30 17:23,V012777,C0767,iFood,5,Melhor cuscuz da orla!
+A01602,2026-05-30 20:38,V012684,,Balcão,5,Melhor cuscuz da orla!
+A00917,2026-05-30 23:18,V012825,C0110,Balcão,,Preço justo e comida gostosa.
+A01046,2026-05-31 01:04,V012780,C0619,Balcão,3,"Ok, nada de especial."
+A00643,2026-05-31 10:28,V012721,C0023,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00847,2026-05-31 12:52,V012729,C0746,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00843,2026-05-31 13:31,V012824,C0105,Balcão,3,"Ok, nada de especial."
+A00827,2026-05-31 14:44,V012709,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01470,2026-05-31 15:35,V012892,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00724,2026-05-31 16:13,V012720,,Balcão,4,Melhor cuscuz da orla!
+A00297,2026-05-31 22:40,V012893,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01610,2026-05-31 23:04,V012860,,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00969,2026-05-31 23:51,V012882,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00873,2026-06-01 01:47,V012920,C1058,Balcão,4,Atendimento rápido e café excelente.
+A00311,2026-06-01 03:30,V012837,C0718,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00560,2026-06-01 04:40,V012885,C0152,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01061,2026-06-01 05:55,V012912,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00079,2026-06-01 07:29,V012902,C1155,iFood,4,"Pão de queijo quentinho e café forte, perfeito."
+A00924,2026-06-01 17:42,V012965,,Balcão,5,Cappuccino cremoso e bem feito.
+A01168,2026-06-01 18:58,V012851,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00846,2026-06-01 19:27,V012890,C0277,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00062,2026-06-01 21:03,V012921,C0023,iFood,5,"Gostei muito do café gelado, refrescante."
+A01089,2026-06-01 22:20,V012961,C0505,iFood,,Bolo de macaxeira igual ao da minha avó.
+A00335,2026-06-02 05:05,V012969,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01072,2026-06-02 05:31,V012957,,Balcão,4,Preço justo e comida gostosa.
+A01087,2026-06-02 10:27,V012976,C0325,iFood,4,Preço justo e comida gostosa.
+A01482,2026-06-02 10:30,V012968,C0552,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01541,2026-06-02 15:42,V012964,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01090,2026-06-03 08:11,V013152,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00615,2026-06-03 11:31,V013061,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00052,2026-06-03 14:47,V013021,C1140,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00194,2026-06-03 19:14,V013014,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01255,2026-06-04 00:39,V013106,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00648,2026-06-04 03:04,V013113,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01031,2026-06-04 17:40,V013101,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00185,2026-06-04 20:39,V013175,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01177,2026-06-04 20:58,V013104,C0297,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A01328,2026-06-04 21:34,V013189,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00282,2026-06-04 23:57,V013192,C1017,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01671,2026-06-05 04:51,V013219,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00021,2026-06-05 10:28,V013225,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01499,2026-06-05 10:48,V013206,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00691,2026-06-05 11:02,V013179,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00438,2026-06-05 13:57,V013290,,Balcão,3,"Ok, nada de especial."
+A00667,2026-06-05 15:34,V013251,C0897,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01246,2026-06-05 19:37,V013316,C0288,Balcão,5,"Equipe muito simpática, sempre volto."
+A01621,2026-06-05 20:27,V013198,C1043,Balcão,4,Atendimento rápido e café excelente.
+A01155,2026-06-06 11:50,V013285,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00728,2026-06-06 14:04,V013349,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00767,2026-06-06 17:19,V013447,,Balcão,4,Atendimento rápido e café excelente.
+A00237,2026-06-06 18:12,V013339,,iFood,4,Preço justo e comida gostosa.
+A01049,2026-06-06 23:22,V013341,C0615,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00675,2026-06-07 01:40,V013364,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00703,2026-06-07 02:44,V013425,C1181,Balcão,5,Melhor cuscuz da orla!
+A00409,2026-06-07 05:17,V013453,C0233,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01514,2026-06-07 08:25,V013440,C0653,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01288,2026-06-07 09:55,V013546,C0720,Balcão,4,Atendimento rápido e café excelente.
+A00309,2026-06-07 14:00,V013424,,Balcão,5,Melhor cuscuz da orla!
+A01305,2026-06-07 14:26,V013428,C1174,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00960,2026-06-08 01:18,V013524,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01511,2026-06-08 03:36,V013484,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00263,2026-06-08 09:21,V013556,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01590,2026-06-08 09:57,V013508,,Balcão,5,Preço justo e comida gostosa.
+A00822,2026-06-08 12:03,V013572,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00586,2026-06-08 14:01,V013604,,Balcão,4,Preço justo e comida gostosa.
+A00471,2026-06-08 16:00,V013555,C0327,Balcão,5,Preço justo e comida gostosa.
+A00949,2026-06-08 20:32,V013582,C0266,iFood,4,"Equipe muito simpática, sempre volto."
+A00220,2026-06-09 01:02,V013589,,iFood,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00029,2026-06-09 21:52,V013658,C1193,Balcão,5,Cappuccino cremoso e bem feito.
+A00200,2026-06-09 22:47,V013668,C1190,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01035,2026-06-09 23:06,V013633,C0183,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01478,2026-06-10 04:41,V013657,C0037,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00206,2026-06-10 08:25,V013775,C0827,Balcão,4,Atendimento rápido e café excelente.
+A00684,2026-06-10 09:04,V013636,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00953,2026-06-10 17:49,V013774,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00201,2026-06-10 20:04,V013732,C0464,Balcão,4,Atendimento rápido e café excelente.
+A01580,2026-06-10 21:18,V013772,C0754,Balcão,5,Atendimento rápido e café excelente.
+A01019,2026-06-11 05:40,V013734,C0302,Balcão,5,Cappuccino cremoso e bem feito.
+A01653,2026-06-11 13:41,V013796,,Balcão,4,"Equipe muito simpática, sempre volto."
+A01507,2026-06-11 20:15,V013832,C0552,Balcão,,"Bom, mas o estacionamento é difícil."
+A01655,2026-06-11 20:31,V013826,C0027,Balcão,5,"Equipe muito simpática, sempre volto."
+A00396,2026-06-11 21:32,V013784,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01278,2026-06-11 22:19,V013859,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01604,2026-06-12 00:36,V013797,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01402,2026-06-12 02:37,V013813,C0971,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01100,2026-06-12 05:11,V013806,,iFood,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01244,2026-06-12 06:26,V013829,C0320,Balcão,5,Atendimento rápido e café excelente.
+A01154,2026-06-12 12:43,V013868,C0170,Balcão,5,"Equipe muito simpática, sempre volto."
+A01012,2026-06-12 13:05,V013787,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01605,2026-06-12 13:29,V013817,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00202,2026-06-12 16:31,V013927,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01184,2026-06-12 16:36,V013875,C0674,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00467,2026-06-12 20:59,V013933,C0593,Balcão,5,Preço justo e comida gostosa.
+A01186,2026-06-13 00:26,V013905,C0093,Balcão,4,Cappuccino cremoso e bem feito.
+A00854,2026-06-13 07:46,V013942,C0098,Balcão,5,Cappuccino cremoso e bem feito.
+A00540,2026-06-13 07:50,V013935,,Balcão,5,Preço justo e comida gostosa.
+A01460,2026-06-13 08:00,V013867,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00876,2026-06-13 08:33,V013932,C0650,Balcão,5,Melhor cuscuz da orla!
+A01220,2026-06-13 11:27,V013909,,iFood,5,Preço justo e comida gostosa.
+A01002,2026-06-13 15:17,V013906,C0036,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00304,2026-06-13 20:51,V014004,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00389,2026-06-13 22:10,V013950,,Balcão,5,Preço justo e comida gostosa.
+A00605,2026-06-14 03:58,V013979,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00486,2026-06-14 05:08,V013984,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01030,2026-06-14 05:36,V014067,C0834,Balcão,5,Preço justo e comida gostosa.
+A00325,2026-06-14 07:32,V014073,C0209,Balcão,,"Café maravilhoso, atendimento nota 10!"
+A00528,2026-06-14 14:26,V013992,C0923,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00472,2026-06-14 17:33,V014119,,Balcão,5,Preço justo e comida gostosa.
+A00653,2026-06-14 18:56,V014030,C0314,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00774,2026-06-14 19:40,V014145,C1065,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00638,2026-06-14 19:51,V014151,C0524,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01320,2026-06-15 08:52,V014160,,iFood,4,"Equipe muito simpática, sempre volto."
+A01555,2026-06-15 11:54,V014096,,Balcão,5,Cappuccino cremoso e bem feito.
+A00126,2026-06-15 23:02,V014213,C1173,Balcão,5,Melhor cuscuz da orla!
+A01043,2026-06-16 00:30,V014240,C1037,Balcão,4,Preço justo e comida gostosa.
+A00279,2026-06-16 02:32,V014183,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00413,2026-06-16 03:07,V014233,,iFood,4,Atendimento rápido e café excelente.
+A01608,2026-06-16 03:45,V014244,,Balcão,5,Preço justo e comida gostosa.
+A00482,2026-06-16 06:26,V014219,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01363,2026-06-16 07:38,V014210,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00542,2026-06-16 10:12,V014211,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01248,2026-06-16 10:13,V014181,C0767,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00857,2026-06-16 11:39,V014180,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00763,2026-06-16 12:05,V014245,C0384,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01109,2026-06-16 13:08,V014170,,Balcão,4,Melhor cuscuz da orla!
+A01413,2026-06-16 13:54,V014185,,Balcão,5,Cappuccino cremoso e bem feito.
+A00260,2026-06-16 18:20,V014272,C1089,iFood,5,"Equipe muito simpática, sempre volto."
+A00974,2026-06-17 05:57,V014288,,Balcão,,Melhor cuscuz da orla!
+A00338,2026-06-17 10:20,V014313,C1176,Balcão,5,"Equipe muito simpática, sempre volto."
+A00316,2026-06-17 11:44,V014274,C0782,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00517,2026-06-17 21:48,V014380,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00624,2026-06-17 22:33,V014370,,iFood,5,"Equipe muito simpática, sempre volto."
+A00264,2026-06-18 03:16,V014347,C0761,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01232,2026-06-18 05:28,V014317,C0111,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00976,2026-06-18 05:58,V014333,C1137,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01417,2026-06-18 10:07,V014387,,iFood,4,Atendimento rápido e café excelente.
+A00191,2026-06-18 13:12,V014367,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01464,2026-06-18 16:55,V014382,,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A01577,2026-06-18 17:40,V014341,,Balcão,5,Cappuccino cremoso e bem feito.
+A00168,2026-06-18 22:19,V014440,C1040,Balcão,5,Cappuccino cremoso e bem feito.
+A01674,2026-06-18 23:21,V014410,,Balcão,5,Preço justo e comida gostosa.
+A00001,2026-06-19 03:50,V014461,C0162,iFood,4,Cappuccino cremoso e bem feito.
+A00534,2026-06-19 04:14,V014398,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00222,2026-06-19 05:28,V014408,C0174,Balcão,5,"Equipe muito simpática, sempre volto."
+A01575,2026-06-19 07:34,V014436,,Balcão,5,Cappuccino cremoso e bem feito.
+A00059,2026-06-19 09:49,V014403,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01070,2026-06-19 11:20,V014515,C0273,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01219,2026-06-19 11:48,V014402,C1123,iFood,3,"Bom café, mas o ambiente estava cheio."
+A00785,2026-06-19 14:15,V014478,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01660,2026-06-19 15:33,V014479,C0740,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00672,2026-06-19 16:33,V014508,C0273,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00051,2026-06-19 19:10,V014527,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01651,2026-06-20 04:35,V014522,C0284,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00077,2026-06-20 11:22,V014678,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00064,2026-06-20 12:27,V014484,,Balcão,4,Melhor cuscuz da orla!
+A00386,2026-06-20 12:43,V014558,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01324,2026-06-20 13:14,V014677,C0659,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01213,2026-06-20 17:49,V014539,C0602,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00435,2026-06-20 23:48,V014591,C0464,iFood,4,"Gostei muito do café gelado, refrescante."
+A00943,2026-06-21 02:49,V014578,C1126,Balcão,5,Preço justo e comida gostosa.
+A01338,2026-06-21 03:04,V014618,C0954,iFood,4,"Café maravilhoso, atendimento nota 10!"
+A00945,2026-06-21 04:47,V014637,C0806,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00318,2026-06-21 06:03,V014642,C0586,iFood,5,Atendimento rápido e café excelente.
+A00508,2026-06-21 10:45,V014749,C0011,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00489,2026-06-21 10:50,V014730,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00205,2026-06-21 11:07,V014710,C0967,iFood,5,Melhor cuscuz da orla!
+A00964,2026-06-21 11:43,V014679,C0650,Balcão,4,Melhor cuscuz da orla!
+A01451,2026-06-21 12:00,V014644,C0156,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01118,2026-06-21 12:07,V014683,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00750,2026-06-21 15:35,V014668,C1160,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01680,2026-06-22 01:36,V014740,,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01429,2026-06-22 09:43,V014704,,Balcão,5,Melhor cuscuz da orla!
+A01201,2026-06-22 10:42,V014836,,Balcão,5,Cappuccino cremoso e bem feito.
+A00215,2026-06-22 13:16,V014701,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00012,2026-06-22 13:34,V014745,C0771,iFood,5,"Gostei muito do café gelado, refrescante."
+A00355,2026-06-23 02:13,V014801,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00962,2026-06-23 12:49,V014825,,iFood,4,Cappuccino cremoso e bem feito.
+A00915,2026-06-23 16:49,V014792,C0575,iFood,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01007,2026-06-23 22:11,V014873,C0581,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00109,2026-06-24 04:49,V014881,C0039,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00425,2026-06-24 07:21,V014882,C0301,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00674,2026-06-24 09:03,V014868,C0950,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00546,2026-06-25 05:24,V014968,,iFood,5,Cappuccino cremoso e bem feito.
+A00793,2026-06-25 05:41,V014989,C0785,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01398,2026-06-25 10:31,V014940,,iFood,5,Melhor cuscuz da orla!
+A01437,2026-06-25 11:02,V015019,C0353,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01013,2026-06-26 00:59,V015074,C0085,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00971,2026-06-26 07:07,V015087,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00157,2026-06-26 08:27,V015067,,Balcão,5,Melhor cuscuz da orla!
+A01646,2026-06-26 13:13,V015167,C0085,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01598,2026-06-26 20:08,V015181,,Balcão,5,Cappuccino cremoso e bem feito.
+A00904,2026-06-27 00:43,V015126,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01370,2026-06-27 03:52,V015179,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01378,2026-06-27 07:51,V015155,C0731,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00395,2026-06-27 08:03,V015182,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00920,2026-06-27 13:16,V015113,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01148,2026-06-27 16:49,V015199,,Balcão,,"Equipe muito simpática, sempre volto."
+A00056,2026-06-27 18:24,V015157,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00631,2026-06-27 21:59,V015265,,Balcão,4,"Equipe muito simpática, sempre volto."
+A01500,2026-06-27 22:47,V015201,C0536,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00746,2026-06-28 00:53,V015236,C1084,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00042,2026-06-28 03:25,V015279,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01494,2026-06-28 04:57,V015284,C0518,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00585,2026-06-28 06:19,V015240,C0447,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01078,2026-06-28 09:07,V015312,C0206,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00204,2026-06-28 12:26,V015356,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00861,2026-06-28 14:03,V015401,,Balcão,,"Equipe muito simpática, sempre volto."
+A00937,2026-06-28 14:10,V015350,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01234,2026-06-28 16:05,V015422,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00988,2026-06-28 16:44,V015324,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01091,2026-06-28 19:32,V015355,C0116,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00818,2026-06-28 19:55,V015256,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01591,2026-06-28 20:38,V015248,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00023,2026-06-28 23:19,V015402,C1177,Balcão,4,Cappuccino cremoso e bem feito.
+A01239,2026-06-29 00:27,V015326,C0261,Balcão,5,Preço justo e comida gostosa.
+A00329,2026-06-29 01:57,V015331,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00319,2026-06-29 03:20,V015400,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00543,2026-06-29 04:11,V015367,,Balcão,5,Atendimento rápido e café excelente.
+A00005,2026-06-29 06:31,V015335,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00987,2026-06-29 13:19,V015462,C0291,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00874,2026-06-29 15:18,V015334,C0637,Balcão,4,Atendimento rápido e café excelente.
+A01593,2026-06-29 20:03,V015457,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01011,2026-06-29 22:12,V015343,C0647,iFood,3,"Bom, mas o estacionamento é difícil."
+A01452,2026-06-29 23:04,V015452,C0671,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01596,2026-06-29 23:12,V015478,C0593,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01463,2026-06-30 01:49,V015439,C0810,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01042,2026-06-30 11:37,V015482,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00298,2026-06-30 11:46,V015489,C0350,iFood,3,"Gostei, mas achei o croissant meio seco."
+A01056,2026-06-30 12:25,V015501,,Balcão,4,Preço justo e comida gostosa.
+A01617,2026-06-30 16:57,V015503,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00975,2026-06-30 18:46,V015471,C0055,Balcão,4,Melhor cuscuz da orla!
+A00417,2026-06-30 20:19,V015584,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01322,2026-06-30 22:44,V015551,,iFood,4,"Equipe muito simpática, sempre volto."
+A01440,2026-07-01 01:11,V015526,,Balcão,5,Melhor cuscuz da orla!
+A00829,2026-07-01 20:10,V015641,C0631,Balcão,,"Gostei muito do café gelado, refrescante."
+A01441,2026-07-02 03:37,V015612,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01325,2026-07-02 05:22,V015650,,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01265,2026-07-02 10:32,V015594,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00456,2026-07-02 13:44,V015635,C0323,Balcão,,"O cappuccino ficou muito caro, não compensa mais."
+A00766,2026-07-02 17:50,V015728,C0525,Balcão,5,Melhor cuscuz da orla!
+A01267,2026-07-02 18:04,V015671,C0416,Balcão,2,"Antes era meu café favorito, agora está caro."
+A00388,2026-07-02 21:26,V015739,C0668,iFood,3,"Bom, mas o estacionamento é difícil."
+A00256,2026-07-02 21:42,V015722,C0279,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00885,2026-07-02 22:10,V015745,C1122,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01449,2026-07-02 23:17,V015740,C0016,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00014,2026-07-03 05:44,V015705,C1130,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01235,2026-07-03 07:00,V015680,C0816,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00103,2026-07-03 10:09,V015698,,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00384,2026-07-03 11:01,V015695,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01273,2026-07-03 11:07,V015788,,Balcão,,"Subiram o preço do cappuccino, fiquei decepcionado."
+A01348,2026-07-03 14:30,V015712,,Balcão,5,Melhor cuscuz da orla!
+A01428,2026-07-03 14:59,V015687,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01125,2026-07-03 19:06,V015835,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00173,2026-07-04 02:28,V015805,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01625,2026-07-04 04:48,V015790,,iFood,2,"O cappuccino ficou muito caro, não compensa mais."
+A01495,2026-07-04 11:00,V015917,C0455,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00093,2026-07-04 11:18,V015808,C0322,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01218,2026-07-04 13:20,V015819,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01502,2026-07-04 13:48,V015956,C0338,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00159,2026-07-04 16:26,V015922,C0157,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A01287,2026-07-04 17:00,V015869,,Balcão,3,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01439,2026-07-04 18:43,V015948,C0197,iFood,2,"R$ 12,90 num cappuccino? Absurdo."
+A00480,2026-07-04 19:03,V015822,C0520,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01274,2026-07-04 19:29,V015892,C0859,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00268,2026-07-05 05:25,V015876,C1147,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00129,2026-07-05 08:55,V015914,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00271,2026-07-05 17:26,V016032,C0420,Balcão,5,"Equipe muito simpática, sempre volto."
+A01110,2026-07-05 19:07,V016021,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00933,2026-07-05 23:07,V015975,C0449,Balcão,5,"Equipe muito simpática, sempre volto."
+A00090,2026-07-06 04:13,V016070,,Balcão,4,Melhor cuscuz da orla!
+A01351,2026-07-06 04:43,V016014,,Balcão,5,Preço justo e comida gostosa.
+A01266,2026-07-06 19:32,V016102,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01661,2026-07-06 21:02,V016086,C1091,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00893,2026-07-07 02:28,V016128,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00817,2026-07-07 08:49,V016098,,Balcão,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00552,2026-07-07 10:39,V016095,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01297,2026-07-07 11:04,V016076,C1044,iFood,5,"Equipe muito simpática, sempre volto."
+A01157,2026-07-08 03:00,V016149,,Balcão,5,Preço justo e comida gostosa.
+A00749,2026-07-08 04:58,V016181,,Balcão,5,Preço justo e comida gostosa.
+A00855,2026-07-08 05:44,V016168,C0398,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01564,2026-07-08 10:06,V016203,C0346,Balcão,5,Atendimento rápido e café excelente.
+A00569,2026-07-08 13:57,V016167,C0524,Balcão,4,Melhor cuscuz da orla!
+A00663,2026-07-08 15:17,V016200,,Balcão,4,Preço justo e comida gostosa.
+A01191,2026-07-08 19:58,V016257,C0507,Balcão,5,"Equipe muito simpática, sempre volto."
+A01323,2026-07-08 20:15,V016252,C0525,Balcão,5,Atendimento rápido e café excelente.
+A01412,2026-07-08 22:23,V016263,C1062,Balcão,5,Cappuccino cremoso e bem feito.
+A01132,2026-07-09 00:31,V016233,C0979,Balcão,4,"Equipe muito simpática, sempre volto."
+A01137,2026-07-09 09:10,V016340,C0350,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00930,2026-07-09 15:25,V016274,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01361,2026-07-09 16:08,V016264,,iFood,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00559,2026-07-09 21:01,V016282,C0541,Balcão,3,"R$ 12,90 num cappuccino? Absurdo."
+A01620,2026-07-09 21:09,V016301,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01001,2026-07-10 00:38,V016316,,Balcão,5,Melhor cuscuz da orla!
+A00887,2026-07-10 05:23,V016337,,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00462,2026-07-10 09:49,V016288,C0503,Balcão,4,Preço justo e comida gostosa.
+A01123,2026-07-10 11:30,V016291,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00412,2026-07-10 12:23,V016369,,Balcão,3,"Antes era meu café favorito, agora está caro."
+A01659,2026-07-10 14:07,V016290,C0590,iFood,4,"Café maravilhoso, atendimento nota 10!"
+A00868,2026-07-10 17:39,V016278,C0177,Balcão,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A01594,2026-07-10 19:52,V016395,C0082,iFood,4,Melhor cuscuz da orla!
+A00210,2026-07-10 22:15,V016366,C0841,Balcão,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00916,2026-07-11 03:50,V016376,C0859,iFood,5,"Café maravilhoso, atendimento nota 10!"
+A01380,2026-07-11 06:29,V016408,C1008,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01076,2026-07-11 07:47,V016379,,iFood,4,Atendimento rápido e café excelente.
+A01616,2026-07-11 13:50,V016361,,iFood,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00555,2026-07-11 17:52,V016506,C0706,iFood,3,"Bom café, mas o ambiente estava cheio."
+A01178,2026-07-11 18:15,V016405,,iFood,3,"Comida boa, atendimento poderia ser mais rápido."
+A00900,2026-07-11 19:01,V016371,C0629,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01062,2026-07-11 19:31,V016482,C1062,Balcão,4,Cappuccino cremoso e bem feito.
+A00331,2026-07-11 22:33,V016431,,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A01120,2026-07-12 00:04,V016458,C0653,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01627,2026-07-12 00:22,V016461,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01633,2026-07-12 02:55,V016485,C0349,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A01205,2026-07-12 03:51,V016508,C0297,Balcão,5,Melhor cuscuz da orla!
+A01300,2026-07-12 04:12,V016460,,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00096,2026-07-12 04:25,V016468,C0470,iFood,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01687,2026-07-12 08:21,V016516,C1194,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A01355,2026-07-12 15:24,V016489,,Balcão,3,"Ok, nada de especial."
+A00095,2026-07-12 23:24,V016604,C0261,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A00365,2026-07-13 03:13,V016618,C0474,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01294,2026-07-13 03:49,V016622,C0048,Balcão,5,Atendimento rápido e café excelente.
+A00910,2026-07-13 06:47,V016612,C0623,Balcão,4,"Equipe muito simpática, sempre volto."
+A01366,2026-07-13 07:10,V016593,C0331,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01162,2026-07-13 09:23,V016614,C0764,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00501,2026-07-13 09:46,V016610,C1063,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00798,2026-07-13 10:01,V016568,C1147,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A00775,2026-07-13 10:43,V016578,C0895,Balcão,3,"Ok, nada de especial."
+A00897,2026-07-13 13:34,V016625,,iFood,3,"Bom café, mas o ambiente estava cheio."
+A01666,2026-07-13 15:32,V016600,,iFood,3,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00803,2026-07-13 20:53,V016569,C0827,Balcão,5,Preço justo e comida gostosa.
+A01374,2026-07-14 10:11,V016685,C0593,Balcão,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00578,2026-07-14 10:30,V016678,C0645,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01698,2026-07-14 17:50,V016698,C0699,iFood,5,"Equipe muito simpática, sempre volto."
+A01375,2026-07-15 02:25,V016705,C0699,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01175,2026-07-15 07:07,V016744,C0082,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01434,2026-07-15 12:46,V016736,C0372,iFood,3,"Comida boa, atendimento poderia ser mais rápido."
+A00310,2026-07-15 13:45,V016717,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01426,2026-07-15 14:12,V016765,,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01385,2026-07-16 02:27,V016792,,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A00466,2026-07-16 05:28,V016781,C0399,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01097,2026-07-16 12:44,V016812,C0543,Balcão,5,Melhor cuscuz da orla!
+A00726,2026-07-16 13:12,V016823,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00721,2026-07-16 13:33,V016772,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00371,2026-07-16 13:50,V016793,C0631,Balcão,5,Melhor cuscuz da orla!
+A00035,2026-07-16 15:14,V016795,C0110,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A01029,2026-07-16 19:46,V016835,C0272,Balcão,4,Melhor cuscuz da orla!
+A01032,2026-07-17 12:23,V016977,C0671,iFood,3,"Comida boa, atendimento poderia ser mais rápido."
+A00965,2026-07-17 12:29,V016868,,Balcão,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00393,2026-07-17 14:17,V016980,,Balcão,,Atendimento rápido e café excelente.
+A00141,2026-07-17 17:54,V016960,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00556,2026-07-17 20:52,V016846,,iFood,5,Cappuccino cremoso e bem feito.
+A00614,2026-07-18 01:00,V016953,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00938,2026-07-18 01:51,V016956,,Balcão,4,Cappuccino cremoso e bem feito.
+A01565,2026-07-18 03:05,V016935,,Balcão,5,Melhor cuscuz da orla!
+A00171,2026-07-18 09:53,V016938,,Balcão,3,"R$ 12,90 num cappuccino? Absurdo."
+A00871,2026-07-18 12:48,V016931,C0893,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01106,2026-07-18 13:34,V017033,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00779,2026-07-18 16:11,V017076,C0570,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01041,2026-07-18 17:10,V016945,C0631,iFood,3,"Antes era meu café favorito, agora está caro."
+A00350,2026-07-18 20:59,V016902,,Balcão,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00870,2026-07-18 22:12,V017014,C0692,Balcão,4,Melhor cuscuz da orla!
+A00015,2026-07-18 22:16,V017081,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00592,2026-07-19 01:01,V017062,C0072,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01628,2026-07-19 02:24,V017031,,Balcão,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00896,2026-07-19 09:34,V017064,,Balcão,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A01570,2026-07-19 10:34,V017180,,Balcão,4,Atendimento rápido e café excelente.
+A01597,2026-07-19 11:41,V016994,C0060,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01476,2026-07-19 14:45,V017155,C0303,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A00341,2026-07-19 20:00,V017058,C0712,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01071,2026-07-19 23:41,V017113,C1091,Balcão,2,"Antes era meu café favorito, agora está caro."
+A00478,2026-07-20 09:15,V017156,C0789,Balcão,5,Atendimento rápido e café excelente.
+A00363,2026-07-20 09:16,V017116,C0713,Balcão,5,"Equipe muito simpática, sempre volto."
+A01107,2026-07-20 14:12,V017219,,Balcão,5,Preço justo e comida gostosa.
+A00427,2026-07-20 18:31,V017141,,Balcão,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A01600,2026-07-20 22:08,V017245,C0142,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00720,2026-07-21 00:26,V017247,C0024,iFood,,"Gostei muito do café gelado, refrescante."
+A00819,2026-07-21 04:43,V017241,C0608,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00567,2026-07-21 15:53,V017274,C0799,Balcão,5,Melhor cuscuz da orla!
+A00830,2026-07-21 21:12,V017307,C0805,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A00796,2026-07-21 22:31,V017314,C0042,Balcão,3,"Ok, nada de especial."
+A00027,2026-07-22 03:17,V017278,C0313,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00895,2026-07-22 09:51,V017372,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00364,2026-07-22 15:26,V017320,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00278,2026-07-22 16:04,V017376,C0677,Balcão,2,"Antes era meu café favorito, agora está caro."
+A01245,2026-07-23 12:50,V017346,,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00645,2026-07-23 14:12,V017333,C0631,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00443,2026-07-23 16:49,V017452,,Balcão,3,O café novo da esquina está mais barato e mais rápido.
+A00670,2026-07-23 21:39,V017426,,Balcão,5,Preço justo e comida gostosa.
+A01468,2026-07-24 08:50,V017411,C0283,iFood,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A01336,2026-07-24 09:56,V017403,,Balcão,5,"Equipe muito simpática, sempre volto."
+A01215,2026-07-24 13:08,V017450,,Balcão,3,"Ok, nada de especial."
+A00317,2026-07-24 13:35,V017560,,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00907,2026-07-24 13:45,V017495,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00066,2026-07-25 08:18,V017518,C0829,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01021,2026-07-25 11:18,V017568,C0125,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01568,2026-07-25 13:03,V017481,C0179,Balcão,5,"Equipe muito simpática, sempre volto."
+A01389,2026-07-25 13:15,V017643,C0525,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00127,2026-07-25 17:41,V017596,C0713,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00706,2026-07-25 20:13,V017462,,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00634,2026-07-25 22:27,V017589,C0480,iFood,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00423,2026-07-26 02:18,V017668,,Balcão,2,"Antes era meu café favorito, agora está caro."
+A01517,2026-07-26 03:22,V017625,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00475,2026-07-26 04:55,V017637,C0104,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01330,2026-07-26 14:49,V017681,C0863,iFood,4,"Café maravilhoso, atendimento nota 10!"
+A00290,2026-07-26 17:41,V017740,C0245,Balcão,4,"Equipe muito simpática, sempre volto."
+A00840,2026-07-27 08:12,V017717,C0555,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00754,2026-07-27 10:37,V017742,C0799,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A00228,2026-07-27 15:52,V017699,C0320,Balcão,5,Atendimento rápido e café excelente.
+A00612,2026-07-27 21:55,V017747,C0599,iFood,5,"Equipe muito simpática, sempre volto."
+A00629,2026-07-28 03:56,V017787,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00054,2026-07-28 07:31,V017834,C0508,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A01504,2026-07-28 23:38,V017900,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00913,2026-07-29 01:29,V017858,,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01028,2026-07-29 07:38,V017879,C0802,Balcão,3,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A01312,2026-07-29 09:26,V017913,C0639,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01293,2026-07-29 14:37,V017912,C0441,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00436,2026-07-29 16:19,V017881,,Balcão,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00932,2026-07-30 00:17,V017942,,iFood,3,"Ok, nada de especial."
+A00680,2026-07-30 01:59,V017928,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00820,2026-07-30 04:02,V017939,C0808,iFood,5,Melhor cuscuz da orla!
+A00695,2026-07-30 05:48,V017971,,Balcão,5,Melhor cuscuz da orla!
+A00538,2026-07-30 06:21,V017954,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00373,2026-07-30 14:11,V017966,C0671,iFood,5,"Pão de queijo quentinho e café forte, perfeito."
+A01662,2026-07-30 16:26,V017996,,Balcão,4,Atendimento rápido e café excelente.
+A00982,2026-07-30 18:53,V017958,,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01692,2026-07-31 05:54,V017987,C0844,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00117,2026-07-31 12:06,V018123,C1115,Balcão,5,Melhor cuscuz da orla!
+A00954,2026-07-31 20:25,V018095,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00477,2026-07-31 23:56,V018108,C0666,iFood,2,"O cappuccino ficou muito caro, não compensa mais."
+A00595,2026-08-01 04:19,V018131,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01052,2026-08-01 06:59,V018167,C1007,iFood,3,"Bom café, mas o ambiente estava cheio."
+A01163,2026-08-01 10:24,V018155,C0311,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A00280,2026-08-01 16:03,V018209,C0594,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01200,2026-08-01 18:20,V018205,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01225,2026-08-02 07:45,V018200,,iFood,1,O café chegou frio pelo delivery.
+A00835,2026-08-02 12:00,V018174,,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01304,2026-08-02 13:06,V018182,C0834,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01048,2026-08-02 15:31,V018259,C1062,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00287,2026-08-02 16:41,V018198,C0448,Balcão,4,Atendimento rápido e café excelente.
+A01588,2026-08-02 16:52,V018299,,Balcão,2,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A01427,2026-08-02 17:15,V018329,C0392,iFood,1,O café chegou frio pelo delivery.
+A00996,2026-08-02 20:49,V018322,C0281,Balcão,3,"R$ 12,90 num cappuccino? Absurdo."
+A00071,2026-08-03 03:08,V018300,,Balcão,3,"Ok, nada de especial."
+A00633,2026-08-03 06:44,V018331,,Balcão,4,Melhor cuscuz da orla!
+A00515,2026-08-03 08:02,V018270,C0394,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01462,2026-08-03 10:09,V018269,C0841,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A00445,2026-08-03 11:26,V018398,C1031,Balcão,3,"Antes era meu café favorito, agora está caro."
+A00295,2026-08-03 12:28,V018335,C0469,iFood,1,"Demorou demais no iFood, a tapioca chegou murcha."
+A00100,2026-08-03 14:01,V018340,C0706,Balcão,3,"Ok, nada de especial."
+A00315,2026-08-03 15:40,V018324,,Balcão,3,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01432,2026-08-03 16:52,V018355,C1175,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00230,2026-08-03 17:53,V018280,C0923,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00618,2026-08-03 23:01,V018383,C0966,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01379,2026-08-04 05:01,V018378,,Balcão,3,"Ok, nada de especial."
+A00869,2026-08-04 08:29,V018342,,iFood,2,"O cappuccino ficou muito caro, não compensa mais."
+A00553,2026-08-04 13:23,V018431,C0524,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A01648,2026-08-05 00:29,V018441,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00038,2026-08-05 09:40,V018420,,iFood,3,"Antes era meu café favorito, agora está caro."
+A01595,2026-08-05 12:30,V018410,C0404,Balcão,5,"Equipe muito simpática, sempre volto."
+A00906,2026-08-05 13:20,V018464,C0052,Balcão,4,Preço justo e comida gostosa.
+A00551,2026-08-05 23:44,V018486,,Balcão,3,O café novo da esquina está mais barato e mais rápido.
+A00658,2026-08-06 19:21,V018553,C1142,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00550,2026-08-08 01:57,V018613,C0802,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A01321,2026-08-08 02:25,V018577,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00184,2026-08-08 03:42,V018627,C1103,iFood,5,Cappuccino cremoso e bem feito.
+A00577,2026-08-08 06:19,V018599,C0529,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00289,2026-08-08 13:16,V018589,C1093,iFood,,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00717,2026-08-08 15:54,V018739,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01624,2026-08-08 16:14,V018635,C0606,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01524,2026-08-08 17:43,V018669,C1177,iFood,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00447,2026-08-08 20:29,V018712,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00824,2026-08-09 00:57,V018742,C1118,iFood,5,Atendimento rápido e café excelente.
+A01475,2026-08-09 07:20,V018731,C0637,iFood,2,"Demorou demais no iFood, a tapioca chegou murcha."
+A01538,2026-08-09 07:32,V018648,C1141,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A00330,2026-08-09 07:40,V018651,,Balcão,5,Preço justo e comida gostosa.
+A00523,2026-08-09 09:40,V018655,,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A01686,2026-08-09 12:44,V018724,C0746,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A01139,2026-08-09 14:06,V018740,C0083,iFood,2,Pedi pelo iFood e demorou mais de uma hora.
+A00714,2026-08-09 14:59,V018674,,Balcão,5,Melhor cuscuz da orla!
+A00285,2026-08-09 15:06,V018662,C0170,Balcão,4,"Equipe muito simpática, sempre volto."
+A00730,2026-08-09 19:23,V018687,C0537,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00715,2026-08-09 21:09,V018804,C0745,iFood,5,Atendimento rápido e café excelente.
+A00879,2026-08-10 00:15,V018783,,Balcão,5,Preço justo e comida gostosa.
+A01173,2026-08-10 13:42,V018813,,iFood,4,Melhor cuscuz da orla!
+A01384,2026-08-10 16:32,V018767,C0751,iFood,1,"Delivery péssimo, cancelei o pedido depois de 50 minutos."
+A01569,2026-08-10 20:20,V018867,,Balcão,5,Preço justo e comida gostosa.
+A01636,2026-08-11 02:40,V018841,C0261,Balcão,5,"Equipe muito simpática, sempre volto."
+A01505,2026-08-11 04:56,V018871,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01540,2026-08-11 13:47,V018886,C0912,Balcão,4,Melhor cuscuz da orla!
+A00936,2026-08-12 01:38,V018914,,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00925,2026-08-12 07:44,V018943,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00217,2026-08-12 11:45,V018996,C0639,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00183,2026-08-12 12:16,V018935,C0631,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01060,2026-08-12 19:53,V018973,,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A00421,2026-08-13 05:03,V018963,C0348,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00734,2026-08-13 09:15,V019010,,Balcão,4,Atendimento rápido e café excelente.
+A00358,2026-08-13 12:56,V018967,C0073,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00692,2026-08-13 15:11,V019070,C0069,Balcão,,"Lugar lindo, perto da praia, recomendo."
+A00980,2026-08-13 18:45,V019072,C0984,iFood,4,"Pão de queijo quentinho e café forte, perfeito."
+A01467,2026-08-13 20:18,V019071,C0042,Balcão,3,"R$ 12,90 num cappuccino? Absurdo."
+A01645,2026-08-13 23:33,V019015,,iFood,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00333,2026-08-14 03:11,V019060,,Balcão,2,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A01280,2026-08-14 07:41,V019023,,iFood,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A01548,2026-08-14 08:41,V019041,C0470,Balcão,2,O café novo da esquina está mais barato e mais rápido.
+A01329,2026-08-14 12:46,V019082,C0652,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A00572,2026-08-14 18:58,V019092,C0143,iFood,5,"Lugar lindo, perto da praia, recomendo."
+A00111,2026-08-14 20:39,V019143,C0050,Balcão,5,Atendimento rápido e café excelente.
+A00321,2026-08-14 21:40,V019133,,Balcão,4,Cappuccino cremoso e bem feito.
+A00591,2026-08-14 22:39,V019065,C1160,Balcão,5,"Equipe muito simpática, sempre volto."
+A00711,2026-08-15 05:14,V019095,C0529,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01121,2026-08-15 06:38,V019139,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00723,2026-08-15 16:46,V019150,C0507,Balcão,3,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00177,2026-08-15 18:35,V019171,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01521,2026-08-15 21:20,V019247,C0893,Balcão,5,Preço justo e comida gostosa.
+A01037,2026-08-16 05:47,V019177,C1041,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00334,2026-08-16 05:59,V019239,C0984,Balcão,4,Melhor cuscuz da orla!
+A01559,2026-08-16 06:52,V019193,,Balcão,5,Melhor cuscuz da orla!
+A01416,2026-08-16 11:04,V019242,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A01678,2026-08-16 11:11,V019186,C1118,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00821,2026-08-16 13:16,V019304,C0245,iFood,5,Preço justo e comida gostosa.
+A00502,2026-08-16 23:20,V019278,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00780,2026-08-17 01:31,V019338,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01421,2026-08-17 13:25,V019283,,Balcão,5,Cappuccino cremoso e bem feito.
+A01018,2026-08-17 14:30,V019294,,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A00344,2026-08-17 15:34,V019394,C0604,Balcão,,"Gostei muito do café gelado, refrescante."
+A00470,2026-08-17 21:35,V019368,C0549,iFood,2,Pedi pelo iFood e demorou mais de uma hora.
+A00500,2026-08-17 22:02,V019365,C0389,Balcão,4,Cappuccino cremoso e bem feito.
+A00257,2026-08-18 02:44,V019391,C0603,Balcão,5,Preço justo e comida gostosa.
+A00518,2026-08-18 03:55,V019359,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01643,2026-08-18 10:10,V019399,,Balcão,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00420,2026-08-18 13:15,V019378,C0137,Balcão,4,Atendimento rápido e café excelente.
+A00956,2026-08-18 19:17,V019421,C0466,Balcão,2,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A01525,2026-08-18 21:57,V019432,C0754,Balcão,5,"Equipe muito simpática, sempre volto."
+A01362,2026-08-19 14:31,V019439,C0167,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00716,2026-08-19 22:02,V019491,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01102,2026-08-19 22:44,V019528,C1126,iFood,1,Pedi pelo iFood e demorou mais de uma hora.
+A01111,2026-08-20 12:19,V019485,C1176,Balcão,3,"R$ 12,90 num cappuccino? Absurdo."
+A01677,2026-08-20 17:00,V019563,C0593,iFood,2,"Pedido atrasado de novo, chegou tudo frio."
+A01098,2026-08-20 22:39,V019585,C0016,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A01276,2026-08-21 10:01,V019551,,Balcão,5,Melhor cuscuz da orla!
+A00161,2026-08-21 13:25,V019579,,iFood,2,"Delivery péssimo, cancelei o pedido depois de 50 minutos."
+A00322,2026-08-21 20:46,V019615,C0362,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00918,2026-08-21 21:09,V019623,C0952,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A01496,2026-08-21 22:11,V019676,,Balcão,5,Melhor cuscuz da orla!
+A01256,2026-08-21 23:42,V019663,,Balcão,5,Atendimento rápido e café excelente.
+A00108,2026-08-22 01:39,V019600,,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A01166,2026-08-22 15:41,V019706,C0096,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A01513,2026-08-22 19:43,V019786,C0149,Balcão,3,"Ok, nada de especial."
+A00180,2026-08-22 21:03,V019719,C0352,Balcão,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00231,2026-08-22 21:07,V019658,C0490,Balcão,2,"Antes era meu café favorito, agora está caro."
+A01104,2026-08-22 21:30,V019650,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01545,2026-08-23 03:04,V019724,C0590,Balcão,4,"Equipe muito simpática, sempre volto."
+A01489,2026-08-23 05:21,V019721,C0761,Balcão,2,"Antes era meu café favorito, agora está caro."
+A00258,2026-08-23 05:48,V019750,C0378,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01096,2026-08-23 08:41,V019734,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00903,2026-08-23 10:22,V019717,C0027,Balcão,5,Atendimento rápido e café excelente.
+A01209,2026-08-23 11:32,V019732,C0502,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01055,2026-08-23 18:09,V019741,C0569,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00626,2026-08-23 21:03,V019801,C0100,Balcão,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00076,2026-08-23 21:19,V019713,C0451,iFood,1,"Delivery péssimo, cancelei o pedido depois de 50 minutos."
+A01050,2026-08-23 23:34,V019831,,Balcão,2,O café novo da esquina está mais barato e mais rápido.
+A01224,2026-08-24 07:03,V019814,,Balcão,5,Preço justo e comida gostosa.
+A01114,2026-08-24 15:39,V019806,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01134,2026-08-24 17:10,V019839,C0105,Balcão,2,"Antes era meu café favorito, agora está caro."
+A00789,2026-08-24 23:48,V019880,C1060,iFood,1,"Demorou demais no iFood, a tapioca chegou murcha."
+A00760,2026-08-25 02:08,V019929,,iFood,1,"Pedido atrasado de novo, chegou tudo frio."
+A00136,2026-08-25 09:03,V019900,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00990,2026-08-25 10:24,V019912,,iFood,4,"Gostei muito do café gelado, refrescante."
+A00662,2026-08-25 15:43,V019888,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01675,2026-08-25 15:47,V019875,C0098,iFood,1,"Pedido atrasado de novo, chegou tudo frio."
+A00299,2026-08-25 16:20,V019881,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01613,2026-08-26 07:23,V019966,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00391,2026-08-26 10:28,V019955,C0681,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00130,2026-08-26 16:37,V019951,C0046,Balcão,5,Atendimento rápido e café excelente.
+A01392,2026-08-26 19:07,V020011,,Balcão,5,Cappuccino cremoso e bem feito.
+A01483,2026-08-26 20:02,V019989,C0234,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01124,2026-08-27 08:36,V020008,C0947,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A01082,2026-08-27 09:17,V020042,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01141,2026-08-27 11:53,V020013,C0350,iFood,2,Pedi pelo iFood e demorou mais de uma hora.
+A00163,2026-08-27 17:37,V020029,C0006,Balcão,,"O cappuccino ficou muito caro, não compensa mais."
+A01172,2026-08-28 01:11,V020084,,Balcão,5,Atendimento rápido e café excelente.
+A00654,2026-08-28 06:00,V020070,C0597,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00110,2026-08-28 08:10,V020074,C0970,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01025,2026-08-28 08:11,V020083,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00676,2026-08-28 10:04,V020056,,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00354,2026-08-28 14:38,V020171,C0770,iFood,3,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01315,2026-08-28 16:14,V020163,C1085,Balcão,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A01486,2026-08-28 16:29,V020068,C0062,Balcão,4,Cappuccino cremoso e bem feito.
+A00536,2026-08-28 21:21,V020093,,Balcão,5,Preço justo e comida gostosa.
+A01044,2026-08-29 01:31,V020187,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00133,2026-08-29 02:45,V020174,C1049,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A00010,2026-08-29 08:19,V020175,C0124,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00483,2026-08-29 11:49,V020253,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01461,2026-08-29 15:04,V020286,C0231,iFood,2,"Delivery péssimo, cancelei o pedido depois de 50 minutos."
+A00575,2026-08-29 18:05,V020269,C0585,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A01350,2026-08-29 23:18,V020259,C1150,Balcão,5,Preço justo e comida gostosa.
+A00025,2026-08-30 02:55,V020276,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01264,2026-08-30 07:34,V020251,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00348,2026-08-30 08:00,V020284,,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A01229,2026-08-30 11:39,V020350,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00148,2026-08-30 12:08,V020215,,iFood,1,"Demorou demais no iFood, a tapioca chegou murcha."
+A00434,2026-08-30 12:30,V020208,,iFood,2,Pedi pelo iFood e demorou mais de uma hora.
+A00221,2026-08-30 13:35,V020264,,iFood,1,"Pedido atrasado de novo, chegou tudo frio."
+A00646,2026-08-30 14:01,V020313,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00863,2026-08-30 17:41,V020231,C0122,Balcão,5,"Equipe muito simpática, sempre volto."
+A00106,2026-08-30 22:22,V020303,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00306,2026-08-31 03:12,V020316,,Balcão,3,"Ok, nada de especial."
+A00859,2026-08-31 10:22,V020361,C0077,Balcão,3,O café novo da esquina está mais barato e mais rápido.
+A01472,2026-08-31 10:59,V020378,C0042,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00927,2026-08-31 12:14,V020315,C0472,Balcão,5,Atendimento rápido e café excelente.
+A01485,2026-08-31 16:33,V020406,C0707,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00963,2026-08-31 16:41,V020325,C0505,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01188,2026-08-31 19:15,V020388,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01309,2026-08-31 21:52,V020364,C0984,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A01647,2026-08-31 21:56,V020381,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00573,2026-09-01 04:17,V020392,C0552,Balcão,,Atendimento rápido e café excelente.
+A00698,2026-09-01 08:01,V020412,C0151,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00305,2026-09-01 15:27,V020400,,Balcão,5,Preço justo e comida gostosa.
+A01117,2026-09-02 03:01,V020448,,iFood,2,"R$ 12,90 num cappuccino? Absurdo."
+A00535,2026-09-02 13:55,V020481,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01515,2026-09-02 14:59,V020457,C0938,Balcão,,A tapioca de carne de sol é a melhor de João Pessoa.
+A00219,2026-09-02 16:25,V020526,C0281,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00683,2026-09-02 18:27,V020496,C0114,Balcão,5,"Gostei muito do café gelado, refrescante."
+A01406,2026-09-02 19:35,V020441,,Balcão,5,Melhor cuscuz da orla!
+A01415,2026-09-02 20:52,V020557,C1160,Balcão,5,Atendimento rápido e café excelente.
+A00563,2026-09-02 22:36,V020509,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01401,2026-09-03 09:00,V020503,C0987,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A00748,2026-09-03 09:22,V020497,C0849,iFood,3,"R$ 12,90 num cappuccino? Absurdo."
+A01103,2026-09-03 09:44,V020491,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01694,2026-09-03 13:03,V020538,,iFood,2,"Entrega muito demorada, o pedido chegou errado."
+A00606,2026-09-03 13:15,V020571,C0684,Balcão,5,Cappuccino cremoso e bem feito.
+A01128,2026-09-03 14:57,V020529,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A01217,2026-09-03 18:59,V020498,C0332,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01290,2026-09-03 22:20,V020580,,Balcão,3,"Ok, nada de especial."
+A00804,2026-09-04 00:21,V020572,,Balcão,5,Cappuccino cremoso e bem feito.
+A00947,2026-09-04 04:31,V020619,,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A00669,2026-09-04 10:11,V020600,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00509,2026-09-04 14:53,V020672,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00790,2026-09-04 20:20,V020592,,Balcão,3,O café novo da esquina está mais barato e mais rápido.
+A00332,2026-09-05 02:00,V020659,C0461,Balcão,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00270,2026-09-05 02:53,V020644,,iFood,1,O café chegou frio pelo delivery.
+A00464,2026-09-05 05:34,V020687,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01074,2026-09-05 13:51,V020636,C0181,Balcão,5,Cappuccino cremoso e bem feito.
+A01193,2026-09-05 15:19,V020651,C1176,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00625,2026-09-05 16:30,V020723,C0704,Balcão,,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A00433,2026-09-06 01:51,V020743,C0502,iFood,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00590,2026-09-06 03:02,V020736,C0164,Balcão,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00153,2026-09-06 04:53,V020752,C0527,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01236,2026-09-06 08:56,V020780,C0343,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00016,2026-09-06 10:09,V020749,C1118,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A01335,2026-09-06 11:18,V020718,,Balcão,5,Atendimento rápido e café excelente.
+A01227,2026-09-06 15:37,V020737,,Balcão,3,"Bom, mas o estacionamento é difícil."
+A01033,2026-09-06 17:24,V020720,,Balcão,5,Atendimento rápido e café excelente.
+A00581,2026-09-06 18:33,V020713,C0834,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00505,2026-09-06 22:09,V020844,,Balcão,5,Preço justo e comida gostosa.
+A00549,2026-09-06 22:10,V020821,,iFood,,"Delivery péssimo, cancelei o pedido depois de 50 minutos."
+A00867,2026-09-07 06:23,V020818,C0741,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00291,2026-09-07 21:17,V020893,C0145,Balcão,5,"Equipe muito simpática, sempre volto."
+A01364,2026-09-08 06:25,V020901,C0914,iFood,1,"Pedido atrasado de novo, chegou tudo frio."
+A00209,2026-09-08 07:36,V020886,C0380,Balcão,5,Atendimento rápido e café excelente.
+A00688,2026-09-08 09:17,V020934,C1176,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A01284,2026-09-08 09:54,V020914,C0140,Balcão,3,"Ok, nada de especial."
+A00083,2026-09-08 12:18,V020900,C1037,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00682,2026-09-08 12:30,V020888,C1098,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00686,2026-09-08 17:24,V020961,C0918,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00622,2026-09-08 20:39,V020944,C0532,Balcão,5,Cappuccino cremoso e bem feito.
+A01250,2026-09-08 22:45,V021000,C0568,Balcão,4,Preço justo e comida gostosa.
+A01587,2026-09-09 07:21,V020995,C0026,Balcão,5,Preço justo e comida gostosa.
+A01642,2026-09-09 10:16,V020996,C0077,Balcão,4,Atendimento rápido e café excelente.
+A01411,2026-09-10 08:30,V021011,C0112,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00337,2026-09-10 14:34,V021085,C0984,iFood,1,"Delivery péssimo, cancelei o pedido depois de 50 minutos."
+A01684,2026-09-10 16:15,V021052,C0979,Balcão,4,"Pão de queijo quentinho e café forte, perfeito."
+A00143,2026-09-10 17:02,V021126,C0301,Balcão,5,"Equipe muito simpática, sempre volto."
+A00503,2026-09-10 22:09,V021130,C0072,iFood,4,"Equipe muito simpática, sempre volto."
+A01553,2026-09-11 03:22,V021100,C0714,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00484,2026-09-11 04:14,V021112,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00039,2026-09-11 08:56,V021101,,Balcão,3,"Antes era meu café favorito, agora está caro."
+A01585,2026-09-11 16:31,V021125,,iFood,,O café chegou frio pelo delivery.
+A01208,2026-09-11 17:36,V021076,C1062,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00841,2026-09-11 20:08,V021176,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00565,2026-09-12 00:19,V021208,,iFood,1,"Demorou demais no iFood, a tapioca chegou murcha."
+A00053,2026-09-12 03:36,V021150,C1141,Balcão,5,Melhor cuscuz da orla!
+A01306,2026-09-12 04:34,V021196,,Balcão,5,Preço justo e comida gostosa.
+A01527,2026-09-12 04:40,V021143,C0781,Balcão,3,"Bom, mas o estacionamento é difícil."
+A00451,2026-09-12 05:53,V021183,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00561,2026-09-12 12:02,V021271,C0835,Balcão,,"Café maravilhoso, atendimento nota 10!"
+A00733,2026-09-12 14:47,V021186,C0281,Balcão,3,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00314,2026-09-12 15:27,V021169,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00504,2026-09-12 17:11,V021178,C0970,Balcão,4,Preço justo e comida gostosa.
+A01295,2026-09-12 17:39,V021231,C0520,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A01512,2026-09-12 22:23,V021238,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00709,2026-09-13 01:28,V021258,C0206,iFood,2,O café chegou frio pelo delivery.
+A00825,2026-09-13 02:44,V021293,C0023,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A01658,2026-09-13 05:05,V021215,C0259,Balcão,4,Melhor cuscuz da orla!
+A01557,2026-09-13 06:37,V021301,,Balcão,3,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00833,2026-09-13 10:29,V021267,C0231,Balcão,3,"Antes era meu café favorito, agora está caro."
+A00323,2026-09-13 11:12,V021348,C0751,Balcão,5,Preço justo e comida gostosa.
+A00842,2026-09-13 13:50,V021252,C0412,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00040,2026-09-13 13:56,V021350,,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00465,2026-09-13 14:04,V021280,C0987,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00164,2026-09-13 14:12,V021256,C0858,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01108,2026-09-13 18:54,V021250,,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A01397,2026-09-13 20:03,V021316,,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00261,2026-09-13 20:59,V021391,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A01368,2026-09-13 22:41,V021397,C0004,iFood,3,"R$ 12,90 num cappuccino? Absurdo."
+A00921,2026-09-14 06:55,V021335,,iFood,,Pedi pelo iFood e demorou mais de uma hora.
+A01183,2026-09-14 08:27,V021385,C0427,Balcão,2,"R$ 12,90 num cappuccino? Absurdo."
+A01247,2026-09-14 13:11,V021327,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A01260,2026-09-14 13:17,V021442,C0164,Balcão,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00463,2026-09-15 03:01,V021420,C0678,Balcão,4,"Ambiente aconchegante, ótimo pra trabalhar."
+A00387,2026-09-15 06:30,V021429,,Balcão,5,"Pão de queijo quentinho e café forte, perfeito."
+A00985,2026-09-15 06:53,V021423,C0502,iFood,5,Bolo de macaxeira igual ao da minha avó.
+A00361,2026-09-15 07:59,V021441,C1104,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00461,2026-09-15 09:10,V021440,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00232,2026-09-15 14:43,V021446,,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A01171,2026-09-15 16:29,V021413,,Balcão,,A tapioca de carne de sol é a melhor de João Pessoa.
+A00759,2026-09-15 17:11,V021459,C0905,iFood,2,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A00898,2026-09-15 19:36,V021482,,Balcão,,"Café maravilhoso, atendimento nota 10!"
+A00619,2026-09-15 22:33,V021485,C0165,Balcão,4,Cappuccino cremoso e bem feito.
+A00547,2026-09-15 23:28,V021474,C1142,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00274,2026-09-16 13:52,V021542,C0478,Balcão,,"Equipe muito simpática, sempre volto."
+A01214,2026-09-16 14:08,V021592,C0824,Balcão,5,"Lugar lindo, perto da praia, recomendo."
+A00086,2026-09-16 22:22,V021544,,Balcão,5,Preço justo e comida gostosa.
+A00301,2026-09-17 01:54,V021583,,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A00193,2026-09-17 08:25,V021547,C0125,Balcão,4,"Lugar lindo, perto da praia, recomendo."
+A00089,2026-09-17 08:27,V021595,C0153,iFood,5,Melhor cuscuz da orla!
+A01481,2026-09-17 16:03,V021568,C0207,Balcão,5,Preço justo e comida gostosa.
+A00883,2026-09-17 18:02,V021564,C0195,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00649,2026-09-18 00:59,V021680,C0356,iFood,3,"Ok, nada de especial."
+A00650,2026-09-18 15:49,V021710,,Balcão,3,"Antes era meu café favorito, agora está caro."
+A00768,2026-09-18 16:35,V021631,C0293,Balcão,3,"R$ 12,90 num cappuccino? Absurdo."
+A00419,2026-09-18 16:57,V021705,,Balcão,4,Preço justo e comida gostosa.
+A00881,2026-09-18 20:23,V021733,C0474,Balcão,3,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00351,2026-09-18 20:52,V021617,,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A00872,2026-09-19 00:57,V021720,C0520,Balcão,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A01058,2026-09-19 05:51,V021731,,Balcão,,"Comida boa, atendimento poderia ser mais rápido."
+A00169,2026-09-19 09:11,V021746,C0977,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01085,2026-09-19 09:42,V021874,C0834,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00428,2026-09-19 14:00,V021704,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01635,2026-09-19 15:44,V021703,,iFood,1,Pedi pelo iFood e demorou mais de uma hora.
+A01333,2026-09-19 16:55,V021819,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A00584,2026-09-19 20:55,V021825,,Balcão,4,Preço justo e comida gostosa.
+A00403,2026-09-19 21:33,V021848,,Balcão,2,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00376,2026-09-20 08:00,V021879,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A01081,2026-09-20 08:00,V021811,,Balcão,3,"Bom café, mas o ambiente estava cheio."
+A00844,2026-09-20 12:08,V021871,,Balcão,3,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A01376,2026-09-20 12:56,V021776,C0854,Balcão,3,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00375,2026-09-20 14:31,V021828,,Balcão,5,Atendimento rápido e café excelente.
+A00601,2026-09-20 17:28,V021914,,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A01101,2026-09-20 21:17,V021898,,Balcão,5,Melhor cuscuz da orla!
+A01466,2026-09-21 00:32,V021913,C0802,iFood,2,"O cappuccino ficou muito caro, não compensa mais."
+A00398,2026-09-21 08:42,V021878,C0252,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A00381,2026-09-21 09:12,V021989,,Balcão,4,Cappuccino cremoso e bem feito.
+A01180,2026-09-21 10:39,V021902,C1160,iFood,3,"R$ 12,90 num cappuccino? Absurdo."
+A01632,2026-09-21 14:09,V021960,,Balcão,,"Bom café, mas o ambiente estava cheio."
+A00522,2026-09-21 14:46,V021920,C0389,Balcão,5,"Gostei muito do café gelado, refrescante."
+A00732,2026-09-21 23:30,V021995,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00981,2026-09-22 11:37,V021979,C1140,Balcão,5,Atendimento rápido e café excelente.
+A00725,2026-09-22 13:22,V022010,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00292,2026-09-22 14:46,V021990,,Balcão,4,A tapioca de carne de sol é a melhor de João Pessoa.
+A00132,2026-09-22 21:08,V022076,C1194,Balcão,3,"Antes era meu café favorito, agora está caro."
+A01665,2026-09-22 21:29,V022048,,Balcão,5,Melhor cuscuz da orla!
+A00123,2026-09-22 23:09,V022041,C0380,Balcão,5,Atendimento rápido e café excelente.
+A01612,2026-09-23 07:50,V022031,,Balcão,5,Bolo de macaxeira igual ao da minha avó.
+A00374,2026-09-23 08:17,V022037,C1093,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A01196,2026-09-23 14:23,V022092,,Balcão,5,Atendimento rápido e café excelente.
+A00940,2026-09-23 14:47,V022051,,Balcão,5,Melhor cuscuz da orla!
+A00303,2026-09-23 21:38,V022133,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00074,2026-09-24 01:52,V022080,C0978,iFood,1,"Demorou demais no iFood, a tapioca chegou murcha."
+A01313,2026-09-24 04:49,V022129,C0822,Balcão,4,Atendimento rápido e café excelente.
+A00564,2026-09-24 12:22,V022114,C1031,Balcão,3,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00986,2026-09-25 03:47,V022188,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01291,2026-09-25 04:23,V022190,,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00755,2026-09-25 07:36,V022177,,iFood,2,"Demorou demais no iFood, a tapioca chegou murcha."
+A00566,2026-09-25 08:06,V022189,,Balcão,5,Atendimento rápido e café excelente.
+A00275,2026-09-25 14:56,V022181,,Balcão,5,Cappuccino cremoso e bem feito.
+A01349,2026-09-26 03:12,V022217,,Balcão,4,"Equipe muito simpática, sempre volto."
+A00152,2026-09-26 03:38,V022261,,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01455,2026-09-26 05:50,V022234,,iFood,2,"Demorou demais no iFood, a tapioca chegou murcha."
+A01038,2026-09-26 06:10,V022213,,Balcão,5,"Café maravilhoso, atendimento nota 10!"
+A00665,2026-09-26 07:40,V022243,C0103,Balcão,3,"Ok, nada de especial."
+A01198,2026-09-26 10:09,V022252,C0730,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01059,2026-09-26 12:43,V022212,,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A01418,2026-09-26 17:38,V022360,,Balcão,3,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A00415,2026-09-26 20:45,V022314,,Balcão,,"R$ 12,90 num cappuccino? Absurdo."
+A01331,2026-09-27 04:13,V022365,C0266,iFood,1,"Demorou demais no iFood, a tapioca chegou murcha."
+A00664,2026-09-27 05:11,V022351,,iFood,1,"Entrega muito demorada, o pedido chegou errado."
+A00294,2026-09-27 10:20,V022294,,Balcão,4,Bolo de macaxeira igual ao da minha avó.
+A00115,2026-09-27 13:20,V022377,C0191,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00741,2026-09-27 14:26,V022359,,Balcão,3,"Gostei, mas achei o croissant meio seco."
+A01641,2026-09-27 14:46,V022324,C0453,Balcão,3,"Prefiro o concorrente que abriu na avenida, tem promoção de manhã."
+A00588,2026-09-27 22:10,V022430,,Balcão,5,Preço justo e comida gostosa.
+A00719,2026-09-28 10:12,V022394,C0805,Balcão,4,Atendimento rápido e café excelente.
+A00959,2026-09-28 12:37,V022392,,Balcão,5,"Equipe muito simpática, sempre volto."
+A00710,2026-09-28 14:48,V022423,,Balcão,5,Melhor cuscuz da orla!
+A00266,2026-09-28 16:28,V022462,C1023,Balcão,4,Melhor cuscuz da orla!
+A01528,2026-09-28 21:28,V022471,C0472,Balcão,4,Preço justo e comida gostosa.
+A00922,2026-09-28 22:06,V022437,C0324,Balcão,3,"Abriu um café novo aqui perto com preço melhor, acabei trocando."
+A00032,2026-09-29 02:08,V022518,C0375,Balcão,3,"Ok, nada de especial."
+A01465,2026-09-29 08:09,V022489,C0988,Balcão,2,"O cappuccino ficou muito caro, não compensa mais."
+A01405,2026-09-29 11:17,V022457,,Balcão,2,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00673,2026-09-29 14:44,V022536,C0043,Balcão,3,"Comida boa, atendimento poderia ser mais rápido."
+A00442,2026-09-29 15:54,V022549,C0042,Balcão,3,"O cappuccino ficou muito caro, não compensa mais."
+A00718,2026-09-29 16:35,V022502,C0122,Balcão,4,Melhor cuscuz da orla!
+A00866,2026-09-29 21:16,V022555,C0941,Balcão,5,A tapioca de carne de sol é a melhor de João Pessoa.
+A00276,2026-09-30 03:06,V022570,C0600,Balcão,3,"Subiram o preço do cappuccino, fiquei decepcionado."
+A00214,2026-09-30 03:42,V022578,,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A00880,2026-09-30 04:05,V022540,,Balcão,2,"Preço do cappuccino aumentou demais, vou parar de pedir."
+A01552,2026-09-30 14:35,V022553,C0614,Balcão,4,"Gostei muito do café gelado, refrescante."
+A00941,2026-09-30 18:34,V022522,C0504,Balcão,5,"Ambiente aconchegante, ótimo pra trabalhar."
+A01373,2026-10-01 07:03,V022595,,Balcão,4,"Café maravilhoso, atendimento nota 10!"
+A00952,2026-10-01 08:52,V022631,,Balcão,5,Cappuccino cremoso e bem feito.
